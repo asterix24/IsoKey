@@ -219,9 +219,6 @@
   (junction (at 157.48 97.79) (diameter 0) (color 0 0 0 0)
     (uuid 17f7e0e3-fd27-458b-954c-d5ff73c9640c)
   )
-  (junction (at 199.39 106.68) (diameter 0) (color 0 0 0 0)
-    (uuid 18311467-8b65-46c2-aa0b-0d31b261a948)
-  )
   (junction (at 118.11 106.68) (diameter 0) (color 0 0 0 0)
     (uuid 1a6f4c9f-c3e6-456b-ad46-480fe20de9ff)
   )
@@ -390,17 +387,11 @@
   (junction (at 199.39 63.5) (diameter 0) (color 0 0 0 0)
     (uuid 7a41c480-6a82-4c35-9613-df61ad36c27c)
   )
-  (junction (at 187.96 106.68) (diameter 0) (color 0 0 0 0)
-    (uuid 7cd856e1-5413-4436-b838-b90840272fdb)
-  )
   (junction (at 146.05 97.79) (diameter 0) (color 0 0 0 0)
     (uuid 7f8ad72e-651e-4b88-86c4-b2ab0dff199c)
   )
   (junction (at 165.1 41.91) (diameter 0) (color 0 0 0 0)
     (uuid 8426baa1-0b7b-4918-a577-341d092c71b6)
-  )
-  (junction (at 193.04 139.7) (diameter 0) (color 0 0 0 0)
-    (uuid 86b7f1a4-4ae1-410f-bca5-dcf5d306aba1)
   )
   (junction (at 99.06 76.2) (diameter 0) (color 0 0 0 0)
     (uuid 886047db-f4a7-441d-bef7-4f0ff8c7e234)
@@ -444,9 +435,6 @@
   (junction (at 165.1 63.5) (diameter 0) (color 0 0 0 0)
     (uuid 9ab0709e-623e-4542-8733-a0574682feec)
   )
-  (junction (at 210.82 106.68) (diameter 0) (color 0 0 0 0)
-    (uuid a5429604-efc8-4e90-a280-81d2f9d18775)
-  )
   (junction (at 157.48 119.38) (diameter 0) (color 0 0 0 0)
     (uuid a83e86de-3533-4b90-895a-eb66a1e462f4)
   )
@@ -485,9 +473,6 @@
   )
   (junction (at 48.26 106.68) (diameter 0) (color 0 0 0 0)
     (uuid bc7a1af0-c815-4280-84cc-df39588377c3)
-  )
-  (junction (at 181.61 139.7) (diameter 0) (color 0 0 0 0)
-    (uuid bd88b1a7-50ba-4ef2-bf85-f2efd08419b4)
   )
   (junction (at 71.12 85.09) (diameter 0) (color 0 0 0 0)
     (uuid bdf45feb-32eb-449b-83a6-81b330abb2d5)
@@ -530,9 +515,6 @@
   )
   (junction (at 64.77 97.79) (diameter 0) (color 0 0 0 0)
     (uuid ce74573d-a0f4-4bcb-a619-0ddee16a47ef)
-  )
-  (junction (at 204.47 139.7) (diameter 0) (color 0 0 0 0)
-    (uuid cf7d5377-4eba-4472-8f00-f60c8abe3155)
   )
   (junction (at 106.68 41.91) (diameter 0) (color 0 0 0 0)
     (uuid d5faa03a-85f0-499c-9aa4-a693e9db710e)
@@ -619,10 +601,6 @@
     (stroke (width 0) (type default))
     (uuid 0b04bc77-3756-4a8c-ad1b-f52304b5190e)
   )
-  (wire (pts (xy 181.61 139.7) (xy 193.04 139.7))
-    (stroke (width 0) (type default))
-    (uuid 0b4aaae4-7d86-4002-9a9e-a87550dbe2a8)
-  )
   (wire (pts (xy 87.63 97.79) (xy 99.06 97.79))
     (stroke (width 0) (type default))
     (uuid 0be6b03d-c02a-4790-8b08-5234f00c178c)
@@ -666,6 +644,10 @@
   (wire (pts (xy 64.77 119.38) (xy 76.2 119.38))
     (stroke (width 0) (type default))
     (uuid 1dd67732-10fb-46f5-8c9d-bc9f1e198482)
+  )
+  (wire (pts (xy 210.82 85.09) (xy 210.82 106.68))
+    (stroke (width 0) (type default))
+    (uuid 1e7b4fe7-8c78-489c-86fa-bada65b653cd)
   )
   (wire (pts (xy 53.34 139.7) (xy 64.77 139.7))
     (stroke (width 0) (type default))
@@ -831,9 +813,9 @@
     (stroke (width 0) (type default))
     (uuid 66d0b720-02d0-41d4-b8dc-f170f2883801)
   )
-  (wire (pts (xy 204.47 139.7) (xy 215.9 139.7))
+  (wire (pts (xy 146.05 139.7) (xy 157.48 139.7))
     (stroke (width 0) (type default))
-    (uuid 6747efab-0e40-4028-ad56-25a927ab5ff5)
+    (uuid 6751de12-d79c-4a43-acbd-d1d817a8d53a)
   )
   (wire (pts (xy 157.48 97.79) (xy 170.18 97.79))
     (stroke (width 0) (type default))
@@ -846,10 +828,6 @@
   (wire (pts (xy 187.96 85.09) (xy 187.96 106.68))
     (stroke (width 0) (type default))
     (uuid 6a93c58c-16ad-4105-b4f3-7435d2c6463f)
-  )
-  (wire (pts (xy 193.04 139.7) (xy 204.47 139.7))
-    (stroke (width 0) (type default))
-    (uuid 6ae0677b-b982-4906-aaec-7965b4262e85)
   )
   (wire (pts (xy 170.18 76.2) (xy 181.61 76.2))
     (stroke (width 0) (type default))
@@ -867,14 +845,6 @@
     (stroke (width 0) (type default))
     (uuid 74c5cedf-4dee-41e7-b416-2e7bb1b08f96)
   )
-  (wire (pts (xy 210.82 106.68) (xy 210.82 127))
-    (stroke (width 0) (type default))
-    (uuid 76ccf78e-af95-4ae8-9b8e-9e28f6e3106e)
-  )
-  (wire (pts (xy 199.39 106.68) (xy 199.39 127))
-    (stroke (width 0) (type default))
-    (uuid 7bb05135-c2b5-4162-a556-bcdde5d57366)
-  )
   (wire (pts (xy 111.76 76.2) (xy 123.19 76.2))
     (stroke (width 0) (type default))
     (uuid 7d589000-e80c-4ec4-95b0-c937c7aaa129)
@@ -890,10 +860,6 @@
   (wire (pts (xy 146.05 54.61) (xy 157.48 54.61))
     (stroke (width 0) (type default))
     (uuid 8232f30f-f57a-4308-b362-fa7975f7cfc4)
-  )
-  (wire (pts (xy 146.05 139.7) (xy 157.48 139.7))
-    (stroke (width 0) (type default))
-    (uuid 83b4e5ca-3ff6-4448-b65a-a7c34e68e290)
   )
   (wire (pts (xy 123.19 139.7) (xy 134.62 139.7))
     (stroke (width 0) (type default))
@@ -951,10 +917,6 @@
     (stroke (width 0) (type default))
     (uuid 98d56f24-40af-4508-b50e-edcfc0798420)
   )
-  (wire (pts (xy 187.96 106.68) (xy 187.96 127))
-    (stroke (width 0) (type default))
-    (uuid 994cab6e-936d-46ed-ba07-ef6fb004bb8d)
-  )
   (wire (pts (xy 193.04 97.79) (xy 204.47 97.79))
     (stroke (width 0) (type default))
     (uuid 99c7a192-3595-47c1-bda7-99787521a8f4)
@@ -966,10 +928,6 @@
   (wire (pts (xy 123.19 97.79) (xy 134.62 97.79))
     (stroke (width 0) (type default))
     (uuid 9daabad7-60af-4bf2-ba58-c1ee1a450006)
-  )
-  (wire (pts (xy 199.39 85.09) (xy 199.39 106.68))
-    (stroke (width 0) (type default))
-    (uuid 9f226c96-8b0d-4608-a3b8-50b09b5faca4)
   )
   (wire (pts (xy 76.2 54.61) (xy 87.63 54.61))
     (stroke (width 0) (type default))
@@ -1010,10 +968,6 @@
   (wire (pts (xy 170.18 54.61) (xy 181.61 54.61))
     (stroke (width 0) (type default))
     (uuid b0991a3b-afa9-4445-a944-2dc7c7fe1871)
-  )
-  (wire (pts (xy 210.82 85.09) (xy 210.82 106.68))
-    (stroke (width 0) (type default))
-    (uuid b228e47c-f1f2-407c-b9a4-a82e1b67758d)
   )
   (wire (pts (xy 165.1 35.56) (xy 165.1 41.91))
     (stroke (width 0) (type default))
@@ -1139,6 +1093,10 @@
     (stroke (width 0) (type default))
     (uuid e659acd2-4829-4fc7-b60d-d58fd582e658)
   )
+  (wire (pts (xy 199.39 85.09) (xy 199.39 106.68))
+    (stroke (width 0) (type default))
+    (uuid e6d708a1-d4fe-4469-87c8-f512a5522e30)
+  )
   (wire (pts (xy 129.54 35.56) (xy 129.54 41.91))
     (stroke (width 0) (type default))
     (uuid ea69d476-69d3-4865-a11a-5521cc500043)
@@ -1184,10 +1142,6 @@
     (uuid fe99370a-0bbc-4a47-bef1-8f9d5533bb75)
   )
 
-  (hierarchical_label "r0" (shape input) (at 34.29 54.61 180) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify right))
-    (uuid 041e118f-e4c6-4182-8481-ad9ef3f70384)
-  )
   (hierarchical_label "cl13" (shape bidirectional) (at 199.39 27.94 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 071226bd-c220-414e-afd1-6d87060b325c)
@@ -1223,6 +1177,10 @@
   (hierarchical_label "cl7" (shape bidirectional) (at 129.54 27.94 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 56708c9e-d28e-41ac-a5e5-ea3966b169ee)
+  )
+  (hierarchical_label "r0" (shape input) (at 34.29 54.61 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 631cdde7-d9f7-41c3-9581-89a14fb2f70d)
   )
   (hierarchical_label "cl2" (shape bidirectional) (at 71.12 27.94 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
@@ -1268,13 +1226,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 120.65 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 063e4f3a-e005-455c-b3c3-f57d4f0cf72f)
-    (property "Reference" "SW2" (at 120.65 58.42 0)
+    (property "Reference" "SW?" (at 120.65 58.42 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 120.65 60.96 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 120.65 66.04 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 120.65 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 120.65 66.04 0)
@@ -1285,13 +1243,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW2") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW30") (unit 1)
+          (reference "SW22") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW14") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -1300,13 +1258,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 50.8 109.22 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 07779a71-4c66-4c14-a07f-1ebb9f7290fb)
-    (property "Reference" "SW1" (at 50.8 101.6 0)
+    (property "Reference" "SW?" (at 50.8 101.6 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 50.8 104.14 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 50.8 109.22 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 50.8 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 50.8 109.22 0)
@@ -1317,51 +1275,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW1") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW56") (unit 1)
+          (reference "SW46") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW12") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Diode:1N4448W") (at 193.04 135.89 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 07d9116f-c6b2-45e6-ad9d-15686b91540f)
-    (property "Reference" "D1" (at 195.58 135.89 90)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "1N4448W" (at 195.58 137.16 90)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-    (property "Footprint" "Diode_SMD:D_SOD-123" (at 188.595 135.89 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "https://www.vishay.com/docs/85722/1n4448w.pdf" (at 193.04 135.89 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Sim.Device" "D" (at 193.04 135.89 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Sim.Pins" "1=K 2=A" (at 193.04 135.89 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 3df3a7ca-ced1-48fa-99f1-ad78295ddde1))
-    (pin "2" (uuid de97896f-e9ee-4996-9fe0-476db71fa73c))
-    (instances
-      (project "isokey"
-        (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
-        )
-        (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D83") (unit 1)
-        )
-        (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D16") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -1370,7 +1290,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 111.76 72.39 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0b3d9a90-1f9e-447e-94bd-082cbf429f77)
-    (property "Reference" "D1" (at 114.3 72.39 90)
+    (property "Reference" "D?" (at 114.3 72.39 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 114.3 73.66 90)
@@ -1393,13 +1313,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D27") (unit 1)
+          (reference "D21") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D12") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -1408,13 +1328,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 85.09 44.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0db04ef9-2ba6-438f-ac9a-b367b813cb9d)
-    (property "Reference" "SW4" (at 85.09 36.83 0)
+    (property "Reference" "SW?" (at 85.09 36.83 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 85.09 39.37 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 85.09 44.45 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 85.09 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 85.09 44.45 0)
@@ -1425,13 +1345,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW4") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
           (reference "SW4") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW17") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -1440,13 +1360,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 96.52 44.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0e0c7a31-7d94-47cb-9570-79fa63e93968)
-    (property "Reference" "SW5" (at 96.52 36.83 0)
+    (property "Reference" "SW?" (at 96.52 36.83 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 96.52 39.37 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 96.52 44.45 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 96.52 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 96.52 44.45 0)
@@ -1457,13 +1377,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW5") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
           (reference "SW5") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW19") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -1472,7 +1392,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 170.18 50.8 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 113ec3e7-d5df-4483-a02e-a8ad73e39e48)
-    (property "Reference" "D1" (at 172.72 50.8 90)
+    (property "Reference" "D?" (at 172.72 50.8 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 172.72 52.07 90)
@@ -1495,13 +1415,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D41") (unit 1)
+          (reference "D11") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D11") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -1510,7 +1430,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 53.34 135.89 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1233f8a5-065b-4eb2-8d4d-8e72c14a7248)
-    (property "Reference" "D1" (at 55.88 135.89 90)
+    (property "Reference" "D?" (at 55.88 135.89 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 55.88 137.16 90)
@@ -1533,13 +1453,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D71") (unit 1)
+          (reference "D61") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D12") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -1548,13 +1468,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 167.64 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 13aa6186-59f0-478d-9e05-fac5d0734a01)
-    (property "Reference" "SW1" (at 167.64 58.42 0)
+    (property "Reference" "SW?" (at 167.64 58.42 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 167.64 60.96 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 167.64 66.04 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 167.64 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 167.64 66.04 0)
@@ -1565,13 +1485,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW1") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW42") (unit 1)
+          (reference "SW26") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW12") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -1600,7 +1520,7 @@
           (reference "R2") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "R11") (unit 1)
+          (reference "R?") (unit 1)
         )
       )
     )
@@ -1609,7 +1529,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 181.61 115.57 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 15ffe797-4384-4e75-8bf0-115c62c76ec7)
-    (property "Reference" "D1" (at 184.15 115.57 90)
+    (property "Reference" "D?" (at 184.15 115.57 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 184.15 116.84 90)
@@ -1632,13 +1552,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D67") (unit 1)
+          (reference "D57") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D14") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -1647,7 +1567,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 204.47 50.8 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 16e716e1-f853-4395-a450-0aa3f570bf42)
-    (property "Reference" "D1" (at 207.01 50.8 90)
+    (property "Reference" "D?" (at 207.01 50.8 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 207.01 52.07 90)
@@ -1670,13 +1590,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D50") (unit 1)
+          (reference "D14") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D17") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -1685,13 +1605,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 143.51 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 16f1c2ef-be92-4856-8908-db119554e855)
-    (property "Reference" "SW4" (at 143.51 58.42 0)
+    (property "Reference" "SW?" (at 143.51 58.42 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 143.51 60.96 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 143.51 66.04 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 143.51 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 143.51 66.04 0)
@@ -1702,13 +1622,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW4") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW36") (unit 1)
+          (reference "SW24") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW18") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -1717,7 +1637,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 111.76 135.89 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1866da38-a0f2-4aa9-8312-05331d56e352)
-    (property "Reference" "D1" (at 114.3 135.89 90)
+    (property "Reference" "D?" (at 114.3 135.89 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 114.3 137.16 90)
@@ -1740,13 +1660,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D76") (unit 1)
+          (reference "D66") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D12") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -1755,7 +1675,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 111.76 115.57 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 188035a9-06be-4eb1-a6ab-1ce656a699e7)
-    (property "Reference" "D1" (at 114.3 115.57 90)
+    (property "Reference" "D?" (at 114.3 115.57 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 114.3 116.84 90)
@@ -1778,13 +1698,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D61") (unit 1)
+          (reference "D51") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D12") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -1793,7 +1713,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 134.62 72.39 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1a01e539-c3d8-4a97-bce8-7ebc767c16fa)
-    (property "Reference" "D1" (at 137.16 72.39 90)
+    (property "Reference" "D?" (at 137.16 72.39 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 137.16 73.66 90)
@@ -1816,13 +1736,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D33") (unit 1)
+          (reference "D23") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D16") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -1831,7 +1751,7 @@
   (symbol (lib_id "Device:R") (at 176.53 31.75 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1b014c61-8677-4f41-9bf1-93ce1331b3dc)
-    (property "Reference" "R22" (at 179.07 30.48 0)
+    (property "Reference" "R12" (at 179.07 30.48 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "22R" (at 179.07 33.02 0)
@@ -1848,42 +1768,10 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "R22") (unit 1)
+          (reference "R12") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "R11") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Switch:SW_Push_45deg") (at 213.36 129.54 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 1b98a7ed-09cf-479a-a9b8-906bfb3f69ae)
-    (property "Reference" "SW5" (at 213.36 121.92 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "Cherry" (at 213.36 124.46 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 213.36 129.54 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 213.36 129.54 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 99f1546a-0f44-4ffd-bbd4-25925e45b682))
-    (pin "2" (uuid b5799fd1-c224-4c24-b69a-4e32700895af))
-    (instances
-      (project "isokey"
-        (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW5") (unit 1)
-        )
-        (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW85") (unit 1)
-        )
-        (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW20") (unit 1)
+          (reference "R?") (unit 1)
         )
       )
     )
@@ -1892,7 +1780,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 215.9 93.98 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1cd656e4-1de4-43a0-b70e-5c14422fa9b0)
-    (property "Reference" "D1" (at 218.44 93.98 90)
+    (property "Reference" "D?" (at 218.44 93.98 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 218.44 95.25 90)
@@ -1915,13 +1803,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D55") (unit 1)
+          (reference "D45") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D20") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -1930,7 +1818,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 123.19 115.57 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1d8e41f8-e238-43d3-90e9-14d60ae9fe8e)
-    (property "Reference" "D1" (at 125.73 115.57 90)
+    (property "Reference" "D?" (at 125.73 115.57 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 125.73 116.84 90)
@@ -1953,13 +1841,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D62") (unit 1)
+          (reference "D52") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D14") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -1968,7 +1856,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 76.2 115.57 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1e6ceb38-0b14-412f-a4b6-e179a29e3909)
-    (property "Reference" "D1" (at 78.74 115.57 90)
+    (property "Reference" "D?" (at 78.74 115.57 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 78.74 116.84 90)
@@ -1991,13 +1879,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D58") (unit 1)
+          (reference "D48") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D16") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -2006,13 +1894,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 132.08 109.22 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 212d623b-3858-4b68-a1a9-68099550cb52)
-    (property "Reference" "SW3" (at 132.08 101.6 0)
+    (property "Reference" "SW?" (at 132.08 101.6 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 132.08 104.14 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 132.08 109.22 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 132.08 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 132.08 109.22 0)
@@ -2023,13 +1911,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW3") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW63") (unit 1)
+          (reference "SW53") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW16") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -2038,7 +1926,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 170.18 93.98 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 22e71091-b6c8-45e7-ba70-1c59e8842285)
-    (property "Reference" "D1" (at 172.72 93.98 90)
+    (property "Reference" "D?" (at 172.72 93.98 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 172.72 95.25 90)
@@ -2061,13 +1949,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D43") (unit 1)
+          (reference "D41") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D12") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -2076,13 +1964,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 85.09 129.54 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 23d80e87-bcb8-4172-95d1-d5e758752fed)
-    (property "Reference" "SW4" (at 85.09 121.92 0)
+    (property "Reference" "SW?" (at 85.09 121.92 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 85.09 124.46 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 85.09 129.54 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 85.09 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 85.09 129.54 0)
@@ -2093,13 +1981,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW4") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW74") (unit 1)
+          (reference "SW64") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW18") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -2108,7 +1996,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 157.48 135.89 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2487e041-d87c-4d85-a104-9256591488e8)
-    (property "Reference" "D1" (at 160.02 135.89 90)
+    (property "Reference" "D?" (at 160.02 135.89 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 160.02 137.16 90)
@@ -2131,13 +2019,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D80") (unit 1)
+          (reference "D70") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D20") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -2146,13 +2034,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 143.51 129.54 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 24cb7d2b-4c23-423c-ab69-27c36d35feeb)
-    (property "Reference" "SW4" (at 143.51 121.92 0)
+    (property "Reference" "SW?" (at 143.51 121.92 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 143.51 124.46 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 143.51 129.54 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 143.51 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 143.51 129.54 0)
@@ -2163,13 +2051,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW4") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW79") (unit 1)
+          (reference "SW69") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW18") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -2178,7 +2066,7 @@
   (symbol (lib_id "Device:R") (at 106.68 31.75 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 262b20c8-2f76-47b1-91ec-90e71a4ca7ab)
-    (property "Reference" "R16" (at 109.22 30.48 0)
+    (property "Reference" "R6" (at 109.22 30.48 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "22R" (at 109.22 33.02 0)
@@ -2195,10 +2083,10 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "R16") (unit 1)
+          (reference "R6") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "R10") (unit 1)
+          (reference "R?") (unit 1)
         )
       )
     )
@@ -2207,13 +2095,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 50.8 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 26829921-e3ea-4cce-b726-de841b226ddc)
-    (property "Reference" "SW1" (at 50.8 80.01 0)
+    (property "Reference" "SW?" (at 50.8 80.01 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 50.8 82.55 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 50.8 87.63 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 50.8 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 50.8 87.63 0)
@@ -2224,13 +2112,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW1") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW21") (unit 1)
+          (reference "SW31") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW12") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -2239,13 +2127,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 201.93 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2abdec24-d870-4ff1-8335-2e36cde2bd74)
-    (property "Reference" "SW4" (at 201.93 58.42 0)
+    (property "Reference" "SW?" (at 201.93 58.42 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 201.93 60.96 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 201.93 66.04 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 201.93 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 201.93 66.04 0)
@@ -2256,13 +2144,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW4") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW51") (unit 1)
+          (reference "SW29") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW18") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -2271,7 +2159,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 181.61 72.39 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2c34d990-9fe9-4a45-9bea-16fbf0c4c84e)
-    (property "Reference" "D1" (at 184.15 72.39 90)
+    (property "Reference" "D?" (at 184.15 72.39 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 184.15 73.66 90)
@@ -2294,13 +2182,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D45") (unit 1)
+          (reference "D27") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D14") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -2309,30 +2197,30 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 213.36 109.22 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 32bdfe05-3807-41e0-994c-1906a3cf9f11)
-    (property "Reference" "SW5" (at 213.36 101.6 0)
+    (property "Reference" "SW?" (at 213.36 101.6 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 213.36 104.14 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 213.36 109.22 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 213.36 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 213.36 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e1571ffd-5c64-4beb-b8a4-537e2b54b499))
-    (pin "2" (uuid 62784589-d978-41a6-9007-a96ee127983b))
+    (pin "1" (uuid aa0d46fb-50ae-47fe-902c-83ccaa50b41d))
+    (pin "2" (uuid e0f9cc14-bf72-482a-8f20-df04d6ddb2ae))
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW5") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW70") (unit 1)
+          (reference "SW60") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW20") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -2341,13 +2229,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 73.66 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 357210b9-8903-47e8-afce-a63c9aa3ebb2)
-    (property "Reference" "SW3" (at 73.66 58.42 0)
+    (property "Reference" "SW?" (at 73.66 58.42 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 73.66 60.96 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 73.66 66.04 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 73.66 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 73.66 66.04 0)
@@ -2358,13 +2246,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW3") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW8") (unit 1)
+          (reference "SW18") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW16") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -2373,7 +2261,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 76.2 135.89 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 35abd4ae-2146-4d75-b106-88bce4b08f50)
-    (property "Reference" "D1" (at 78.74 135.89 90)
+    (property "Reference" "D?" (at 78.74 135.89 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 78.74 137.16 90)
@@ -2396,13 +2284,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D73") (unit 1)
+          (reference "D63") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D16") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -2411,13 +2299,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 96.52 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 35fc0b21-c572-4951-82ad-8693e0ae87c9)
-    (property "Reference" "SW5" (at 96.52 80.01 0)
+    (property "Reference" "SW?" (at 96.52 80.01 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 96.52 82.55 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 96.52 87.63 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 96.52 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 96.52 87.63 0)
@@ -2428,13 +2316,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW5") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW25") (unit 1)
+          (reference "SW35") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW20") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -2443,13 +2331,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 120.65 44.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3b48d2dc-50a0-4f8c-a52e-0bedb361de4b)
-    (property "Reference" "SW2" (at 120.65 36.83 0)
+    (property "Reference" "SW?" (at 120.65 36.83 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 120.65 39.37 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 120.65 44.45 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 120.65 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 120.65 44.45 0)
@@ -2460,13 +2348,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW2") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW29") (unit 1)
+          (reference "SW7") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW13") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -2475,7 +2363,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 146.05 135.89 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3be98793-244a-4dfb-b42d-cf348a1b47ff)
-    (property "Reference" "D1" (at 148.59 135.89 90)
+    (property "Reference" "D?" (at 148.59 135.89 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 148.59 137.16 90)
@@ -2498,13 +2386,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D79") (unit 1)
+          (reference "D69") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D18") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -2513,13 +2401,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 109.22 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3bf7c73f-541f-4102-8e65-3a97f100d915)
-    (property "Reference" "SW1" (at 109.22 80.01 0)
+    (property "Reference" "SW?" (at 109.22 80.01 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 109.22 82.55 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 109.22 87.63 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 109.22 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 109.22 87.63 0)
@@ -2530,13 +2418,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW1") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW28") (unit 1)
+          (reference "SW36") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW12") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -2545,13 +2433,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 179.07 44.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3d2fc77c-0c74-47cb-a2bd-70947c510e04)
-    (property "Reference" "SW2" (at 179.07 36.83 0)
+    (property "Reference" "SW?" (at 179.07 36.83 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 179.07 39.37 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 179.07 44.45 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 179.07 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 179.07 44.45 0)
@@ -2562,13 +2450,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW2") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW44") (unit 1)
+          (reference "SW12") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW13") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -2577,13 +2465,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 213.36 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3e8503b8-6658-469c-810a-252dc42008e6)
-    (property "Reference" "SW5" (at 213.36 58.42 0)
+    (property "Reference" "SW?" (at 213.36 58.42 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 213.36 60.96 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 213.36 66.04 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 213.36 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 213.36 66.04 0)
@@ -2594,13 +2482,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW5") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW54") (unit 1)
+          (reference "SW30") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW20") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -2609,13 +2497,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 213.36 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 409d38e9-bb84-48f2-8699-5f72fea95087)
-    (property "Reference" "SW5" (at 213.36 80.01 0)
+    (property "Reference" "SW?" (at 213.36 80.01 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 213.36 82.55 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 213.36 87.63 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 213.36 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 213.36 87.63 0)
@@ -2626,13 +2514,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW5") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW55") (unit 1)
+          (reference "SW45") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW20") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -2641,7 +2529,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 170.18 135.89 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 44cff025-c63a-4cc6-aa81-f000d9d170e7)
-    (property "Reference" "D1" (at 172.72 135.89 90)
+    (property "Reference" "D?" (at 172.72 135.89 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 172.72 137.16 90)
@@ -2664,13 +2552,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D81") (unit 1)
+          (reference "D71") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D12") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -2679,7 +2567,7 @@
   (symbol (lib_id "Device:R") (at 118.11 31.75 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4530e5f0-fc7f-4f0e-8374-df202934c99f)
-    (property "Reference" "R17" (at 120.65 30.48 0)
+    (property "Reference" "R7" (at 120.65 30.48 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "22R" (at 120.65 33.02 0)
@@ -2696,10 +2584,10 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "R17") (unit 1)
+          (reference "R7") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "R11") (unit 1)
+          (reference "R?") (unit 1)
         )
       )
     )
@@ -2708,7 +2596,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 204.47 72.39 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 47667fc0-8e2f-427c-bc30-848619f183d9)
-    (property "Reference" "D1" (at 207.01 72.39 90)
+    (property "Reference" "D?" (at 207.01 72.39 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 207.01 73.66 90)
@@ -2731,13 +2619,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D51") (unit 1)
+          (reference "D29") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D18") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -2746,13 +2634,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 154.94 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4c4e849f-d2b2-413d-9c89-e278a76cfcbc)
-    (property "Reference" "SW5" (at 154.94 58.42 0)
+    (property "Reference" "SW?" (at 154.94 58.42 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 154.94 60.96 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 154.94 66.04 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 154.94 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 154.94 66.04 0)
@@ -2763,13 +2651,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW5") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW39") (unit 1)
+          (reference "SW25") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW20") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -2778,7 +2666,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 170.18 115.57 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5014f2e1-e055-400e-a50b-8210c69e5c02)
-    (property "Reference" "D1" (at 172.72 115.57 90)
+    (property "Reference" "D?" (at 172.72 115.57 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 172.72 116.84 90)
@@ -2801,13 +2689,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D66") (unit 1)
+          (reference "D56") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D12") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -2816,7 +2704,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 134.62 135.89 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 519d8745-2967-4058-b0a4-d2bf2cf755ff)
-    (property "Reference" "D1" (at 137.16 135.89 90)
+    (property "Reference" "D?" (at 137.16 135.89 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 137.16 137.16 90)
@@ -2839,13 +2727,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D78") (unit 1)
+          (reference "D68") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D16") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -2854,13 +2742,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 50.8 129.54 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 544ffc94-b54f-413f-b871-cf99e1cf1f44)
-    (property "Reference" "SW1" (at 50.8 121.92 0)
+    (property "Reference" "SW?" (at 50.8 121.92 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 50.8 124.46 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 50.8 129.54 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 50.8 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 50.8 129.54 0)
@@ -2871,13 +2759,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW1") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW71") (unit 1)
+          (reference "SW61") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW12") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -2886,13 +2774,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 73.66 129.54 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 56a9aa3c-abcc-4eb6-a8f9-1d4c61ae188d)
-    (property "Reference" "SW3" (at 73.66 121.92 0)
+    (property "Reference" "SW?" (at 73.66 121.92 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 73.66 124.46 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 73.66 129.54 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 73.66 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 73.66 129.54 0)
@@ -2903,13 +2791,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW3") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW73") (unit 1)
+          (reference "SW63") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW16") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -2918,7 +2806,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 157.48 115.57 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 589a2625-7c8a-43b6-8595-567837e2209c)
-    (property "Reference" "D1" (at 160.02 115.57 90)
+    (property "Reference" "D?" (at 160.02 115.57 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 160.02 116.84 90)
@@ -2941,13 +2829,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D65") (unit 1)
+          (reference "D55") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D20") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -2956,13 +2844,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 132.08 129.54 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5a572b51-16d1-489b-a19a-c9d1994795b5)
-    (property "Reference" "SW3" (at 132.08 121.92 0)
+    (property "Reference" "SW?" (at 132.08 121.92 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 132.08 124.46 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 132.08 129.54 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 132.08 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 132.08 129.54 0)
@@ -2973,13 +2861,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW3") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW78") (unit 1)
+          (reference "SW68") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW16") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -2988,13 +2876,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 62.23 109.22 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5a8d5828-f180-4ac4-b962-82ebd9aff2a0)
-    (property "Reference" "SW2" (at 62.23 101.6 0)
+    (property "Reference" "SW?" (at 62.23 101.6 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 62.23 104.14 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 62.23 109.22 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 62.23 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 62.23 109.22 0)
@@ -3005,13 +2893,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW2") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW57") (unit 1)
+          (reference "SW47") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW14") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -3020,13 +2908,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 190.5 109.22 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5ac10e8a-1b37-4217-bdcc-2d120302d195)
-    (property "Reference" "SW3" (at 190.5 101.6 0)
+    (property "Reference" "SW?" (at 190.5 101.6 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 190.5 104.14 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 190.5 109.22 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 190.5 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 190.5 109.22 0)
@@ -3037,13 +2925,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW3") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW68") (unit 1)
+          (reference "SW58") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW16") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -3052,13 +2940,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 62.23 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5c9322bb-7002-48d4-b5f4-71dfc3b9f592)
-    (property "Reference" "SW2" (at 62.23 80.01 0)
+    (property "Reference" "SW?" (at 62.23 80.01 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 62.23 82.55 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 62.23 87.63 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 62.23 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 62.23 87.63 0)
@@ -3069,13 +2957,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW2") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW22") (unit 1)
+          (reference "SW32") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW14") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -3084,13 +2972,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 143.51 44.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5ced28f6-3e7f-451f-9b70-0a962bd555ba)
-    (property "Reference" "SW4" (at 143.51 36.83 0)
+    (property "Reference" "SW?" (at 143.51 36.83 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 143.51 39.37 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 143.51 44.45 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 143.51 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 143.51 44.45 0)
@@ -3101,13 +2989,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW4") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW35") (unit 1)
+          (reference "SW9") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW17") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -3116,7 +3004,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 134.62 50.8 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5d940edc-b743-4830-9dad-75125313e825)
-    (property "Reference" "D1" (at 137.16 50.8 90)
+    (property "Reference" "D?" (at 137.16 50.8 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 137.16 52.07 90)
@@ -3139,13 +3027,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D32") (unit 1)
+          (reference "D8") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D15") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -3154,7 +3042,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 157.48 93.98 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5e0e06f3-1ae5-48b9-bc11-fd97000ef8fe)
-    (property "Reference" "D1" (at 160.02 93.98 90)
+    (property "Reference" "D?" (at 160.02 93.98 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 160.02 95.25 90)
@@ -3177,13 +3065,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
           (reference "D40") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D20") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -3192,13 +3080,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 96.52 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 60f2b836-0b92-4ff3-b73b-a22f7987e9f8)
-    (property "Reference" "SW5" (at 96.52 58.42 0)
+    (property "Reference" "SW?" (at 96.52 58.42 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 96.52 60.96 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 96.52 66.04 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 96.52 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 96.52 66.04 0)
@@ -3209,13 +3097,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW5") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW10") (unit 1)
+          (reference "SW20") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW20") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -3224,7 +3112,7 @@
   (symbol (lib_id "Device:R") (at 38.1 76.2 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6417489c-edef-4d29-95e7-a5d911aa0bf3)
-    (property "Reference" "R7" (at 38.1 69.85 90)
+    (property "Reference" "R17" (at 38.1 69.85 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "22R" (at 38.1 72.39 90)
@@ -3241,10 +3129,10 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "R7") (unit 1)
+          (reference "R17") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "R9") (unit 1)
+          (reference "R?") (unit 1)
         )
       )
     )
@@ -3253,13 +3141,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 201.93 109.22 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 69b07ce7-3007-4848-96b9-10bb856453de)
-    (property "Reference" "SW4" (at 201.93 101.6 0)
+    (property "Reference" "SW?" (at 201.93 101.6 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 201.93 104.14 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 201.93 109.22 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 201.93 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 201.93 109.22 0)
@@ -3270,13 +3158,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW4") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW69") (unit 1)
+          (reference "SW59") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW18") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -3285,7 +3173,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 123.19 93.98 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6a67317b-e301-4112-a85a-6d3825a2e2c7)
-    (property "Reference" "D1" (at 125.73 93.98 90)
+    (property "Reference" "D?" (at 125.73 93.98 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 125.73 95.25 90)
@@ -3308,13 +3196,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D31") (unit 1)
+          (reference "D37") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D14") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -3323,7 +3211,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 99.06 72.39 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6a9c9952-71cc-4369-9fe6-15e33d1bdfa9)
-    (property "Reference" "D1" (at 101.6 72.39 90)
+    (property "Reference" "D?" (at 101.6 72.39 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 101.6 73.66 90)
@@ -3346,13 +3234,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D10") (unit 1)
+          (reference "D20") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D20") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -3381,7 +3269,7 @@
           (reference "R1") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "R10") (unit 1)
+          (reference "R?") (unit 1)
         )
       )
     )
@@ -3390,13 +3278,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 120.65 129.54 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6c50060f-f4af-473d-ab51-b06d428ab357)
-    (property "Reference" "SW2" (at 120.65 121.92 0)
+    (property "Reference" "SW?" (at 120.65 121.92 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 120.65 124.46 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 120.65 129.54 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 120.65 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 120.65 129.54 0)
@@ -3407,45 +3295,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW2") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW77") (unit 1)
+          (reference "SW67") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW14") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Switch:SW_Push_45deg") (at 201.93 129.54 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 6e57b585-624a-49cf-9ca4-c320ce545085)
-    (property "Reference" "SW4" (at 201.93 121.92 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "Cherry" (at 201.93 124.46 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 201.93 129.54 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 201.93 129.54 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 8ca2b53c-943b-459a-a396-4b2fc882161e))
-    (pin "2" (uuid 4bb99050-ff2f-41b7-ae7a-7bde1e6327dd))
-    (instances
-      (project "isokey"
-        (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW4") (unit 1)
-        )
-        (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW84") (unit 1)
-        )
-        (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW18") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -3454,13 +3310,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 143.51 109.22 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 71774ffc-7c45-440f-b6d2-b8735c46d293)
-    (property "Reference" "SW4" (at 143.51 101.6 0)
+    (property "Reference" "SW?" (at 143.51 101.6 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 143.51 104.14 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 143.51 109.22 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 143.51 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 143.51 109.22 0)
@@ -3471,13 +3327,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW4") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW64") (unit 1)
+          (reference "SW54") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW18") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -3486,7 +3342,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 146.05 50.8 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 71778d72-4e9a-4ae6-b612-eaa72d998880)
-    (property "Reference" "D1" (at 148.59 50.8 90)
+    (property "Reference" "D?" (at 148.59 50.8 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 148.59 52.07 90)
@@ -3509,13 +3365,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D35") (unit 1)
+          (reference "D9") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D17") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -3524,13 +3380,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 50.8 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 71c6d766-8c61-4e6b-a4c1-1b4c55a33703)
-    (property "Reference" "SW1" (at 50.8 58.42 0)
+    (property "Reference" "SW?" (at 50.8 58.42 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 50.8 60.96 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 50.8 66.04 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 50.8 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 50.8 66.04 0)
@@ -3541,13 +3397,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW1") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW6") (unit 1)
+          (reference "SW16") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW12") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -3556,7 +3412,7 @@
   (symbol (lib_id "Device:R") (at 140.97 31.75 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 725020dc-bea0-4370-a09f-580b86e50917)
-    (property "Reference" "R19" (at 143.51 30.48 0)
+    (property "Reference" "R9" (at 143.51 30.48 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "22R" (at 143.51 33.02 0)
@@ -3573,10 +3429,10 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "R19") (unit 1)
+          (reference "R9") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "R13") (unit 1)
+          (reference "R?") (unit 1)
         )
       )
     )
@@ -3585,13 +3441,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 62.23 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 727d470e-848d-47b9-8d49-d76ea61a4aad)
-    (property "Reference" "SW2" (at 62.23 58.42 0)
+    (property "Reference" "SW?" (at 62.23 58.42 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 62.23 60.96 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 62.23 66.04 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 62.23 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 62.23 66.04 0)
@@ -3602,13 +3458,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW2") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW7") (unit 1)
+          (reference "SW17") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW14") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -3617,7 +3473,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 53.34 93.98 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 72cbec0d-d09b-4512-8ad5-903f4f6a37d9)
-    (property "Reference" "D1" (at 55.88 93.98 90)
+    (property "Reference" "D?" (at 55.88 93.98 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 55.88 95.25 90)
@@ -3640,13 +3496,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D21") (unit 1)
+          (reference "D31") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D12") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -3655,7 +3511,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 53.34 50.8 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 74d21b51-7c47-4215-b23a-d8e0e1e93455)
-    (property "Reference" "D1" (at 55.88 50.8 90)
+    (property "Reference" "D?" (at 55.88 50.8 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 55.88 52.07 90)
@@ -3678,13 +3534,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
           (reference "D1") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D11") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -3693,7 +3549,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 123.19 50.8 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7506fbea-5c3f-4a06-9683-5e497cc5f6ea)
-    (property "Reference" "D1" (at 125.73 50.8 90)
+    (property "Reference" "D?" (at 125.73 50.8 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 125.73 52.07 90)
@@ -3716,13 +3572,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D29") (unit 1)
+          (reference "D7") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D13") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -3731,7 +3587,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 181.61 135.89 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 75769986-9bbd-4878-8f85-fe3e2163771d)
-    (property "Reference" "D1" (at 184.15 135.89 90)
+    (property "Reference" "D?" (at 184.15 135.89 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 184.15 137.16 90)
@@ -3754,13 +3610,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D82") (unit 1)
+          (reference "D72") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D14") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -3769,7 +3625,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 193.04 115.57 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 76acf790-8b72-47e2-aa94-eedb34dd1aed)
-    (property "Reference" "D1" (at 195.58 115.57 90)
+    (property "Reference" "D?" (at 195.58 115.57 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 195.58 116.84 90)
@@ -3792,13 +3648,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D68") (unit 1)
+          (reference "D58") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D16") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -3807,13 +3663,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 96.52 129.54 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 78c863b1-cec9-4ad4-bb98-de0ca5c02b2a)
-    (property "Reference" "SW5" (at 96.52 121.92 0)
+    (property "Reference" "SW?" (at 96.52 121.92 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 96.52 124.46 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 96.52 129.54 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 96.52 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 96.52 129.54 0)
@@ -3824,13 +3680,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW5") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW75") (unit 1)
+          (reference "SW65") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW20") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -3839,13 +3695,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 179.07 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7a15114a-5dad-428d-9b52-1fc827cc15ca)
-    (property "Reference" "SW2" (at 179.07 80.01 0)
+    (property "Reference" "SW?" (at 179.07 80.01 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 179.07 82.55 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 179.07 87.63 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 179.07 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 179.07 87.63 0)
@@ -3856,13 +3712,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW2") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW46") (unit 1)
+          (reference "SW42") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW14") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -3871,13 +3727,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 109.22 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7aa1da8c-8f0e-44a5-ba55-89745c1bdf32)
-    (property "Reference" "SW1" (at 109.22 58.42 0)
+    (property "Reference" "SW?" (at 109.22 58.42 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 109.22 60.96 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 109.22 66.04 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 109.22 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 109.22 66.04 0)
@@ -3888,13 +3744,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW1") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW27") (unit 1)
+          (reference "SW21") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW12") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -3903,13 +3759,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 132.08 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7ca09bb1-4fc8-4cc9-8ff5-9b5b486e1f0e)
-    (property "Reference" "SW3" (at 132.08 80.01 0)
+    (property "Reference" "SW?" (at 132.08 80.01 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 132.08 82.55 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 132.08 87.63 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 132.08 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 132.08 87.63 0)
@@ -3920,51 +3776,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW3") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW34") (unit 1)
+          (reference "SW38") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW16") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Diode:1N4448W") (at 215.9 135.89 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 7d613324-411a-453d-8560-28d537171c18)
-    (property "Reference" "D1" (at 218.44 135.89 90)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "1N4448W" (at 218.44 137.16 90)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-    (property "Footprint" "Diode_SMD:D_SOD-123" (at 211.455 135.89 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "https://www.vishay.com/docs/85722/1n4448w.pdf" (at 215.9 135.89 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Sim.Device" "D" (at 215.9 135.89 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Sim.Pins" "1=K 2=A" (at 215.9 135.89 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 8ab659c0-034c-471d-a19f-cf70e64aa8a3))
-    (pin "2" (uuid 47e39205-25f7-4756-909d-59a181356c8e))
-    (instances
-      (project "isokey"
-        (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
-        )
-        (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D85") (unit 1)
-        )
-        (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D20") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -3973,13 +3791,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 143.51 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7e4d411c-0e7e-4b5d-b900-846e0a7a2695)
-    (property "Reference" "SW4" (at 143.51 80.01 0)
+    (property "Reference" "SW?" (at 143.51 80.01 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 143.51 82.55 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 143.51 87.63 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 143.51 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 143.51 87.63 0)
@@ -3990,13 +3808,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW4") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW37") (unit 1)
+          (reference "SW39") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW18") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -4025,7 +3843,7 @@
           (reference "R3") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "R12") (unit 1)
+          (reference "R?") (unit 1)
         )
       )
     )
@@ -4034,7 +3852,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 99.06 135.89 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7e9f12b2-c2d5-4a5d-b92a-8b921d5cd94f)
-    (property "Reference" "D1" (at 101.6 135.89 90)
+    (property "Reference" "D?" (at 101.6 135.89 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 101.6 137.16 90)
@@ -4057,13 +3875,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D75") (unit 1)
+          (reference "D65") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D20") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -4072,7 +3890,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 215.9 72.39 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8193b768-1c92-45a8-a4f5-2287ab6777e0)
-    (property "Reference" "D1" (at 218.44 72.39 90)
+    (property "Reference" "D?" (at 218.44 72.39 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 218.44 73.66 90)
@@ -4095,13 +3913,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D54") (unit 1)
+          (reference "D30") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D20") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -4110,7 +3928,7 @@
   (symbol (lib_id "Device:R") (at 152.4 31.75 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 819fe226-5d80-4f8d-afca-8a41efeedbfb)
-    (property "Reference" "R20" (at 154.94 30.48 0)
+    (property "Reference" "R10" (at 154.94 30.48 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "22R" (at 154.94 33.02 0)
@@ -4127,10 +3945,10 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "R20") (unit 1)
+          (reference "R10") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "R14") (unit 1)
+          (reference "R?") (unit 1)
         )
       )
     )
@@ -4139,7 +3957,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 146.05 115.57 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 84aae944-d46b-4596-8286-7609abe56316)
-    (property "Reference" "D1" (at 148.59 115.57 90)
+    (property "Reference" "D?" (at 148.59 115.57 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 148.59 116.84 90)
@@ -4162,13 +3980,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D64") (unit 1)
+          (reference "D54") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D18") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -4177,7 +3995,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 99.06 50.8 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 85788f55-1efa-423a-b251-af81782944dc)
-    (property "Reference" "D1" (at 101.6 50.8 90)
+    (property "Reference" "D?" (at 101.6 50.8 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 101.6 52.07 90)
@@ -4200,13 +4018,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
           (reference "D5") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D19") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -4215,13 +4033,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 109.22 109.22 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 85e591c7-c32e-4824-b187-0fb3c600defd)
-    (property "Reference" "SW1" (at 109.22 101.6 0)
+    (property "Reference" "SW?" (at 109.22 101.6 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 109.22 104.14 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 109.22 109.22 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 109.22 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 109.22 109.22 0)
@@ -4232,13 +4050,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW1") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW61") (unit 1)
+          (reference "SW51") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW12") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -4247,7 +4065,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 193.04 50.8 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8668a8bb-6092-4b78-84b2-5582a974a73d)
-    (property "Reference" "D1" (at 195.58 50.8 90)
+    (property "Reference" "D?" (at 195.58 50.8 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 195.58 52.07 90)
@@ -4270,13 +4088,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D47") (unit 1)
+          (reference "D13") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D15") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -4285,7 +4103,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 134.62 115.57 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 86bd206d-4a4f-4414-8e8d-6c405f030a95)
-    (property "Reference" "D1" (at 137.16 115.57 90)
+    (property "Reference" "D?" (at 137.16 115.57 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 137.16 116.84 90)
@@ -4308,42 +4126,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D63") (unit 1)
+          (reference "D53") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D16") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:R") (at 38.1 54.61 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 876afe3c-7e07-40ea-9143-bbf9b01ad5ec)
-    (property "Reference" "R6" (at 38.1 48.26 90)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "22R" (at 38.1 50.8 90)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 38.1 56.388 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 38.1 54.61 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 47c375f2-6b65-4bb4-a46c-b2267aed9103))
-    (pin "2" (uuid 617a8673-1241-43a4-bd22-9e93ab230f9f))
-    (instances
-      (project "isokey"
-        (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "R6") (unit 1)
-        )
-        (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "R8") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -4352,7 +4141,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 111.76 50.8 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 89211bcd-5c0d-422e-9589-71db0e4814ff)
-    (property "Reference" "D1" (at 114.3 50.8 90)
+    (property "Reference" "D?" (at 114.3 50.8 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 114.3 52.07 90)
@@ -4375,13 +4164,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D26") (unit 1)
+          (reference "D6") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D11") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -4390,7 +4179,7 @@
   (symbol (lib_id "Device:R") (at 38.1 119.38 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 898d5d20-a78e-467d-b111-49358da51b76)
-    (property "Reference" "R26" (at 38.1 113.03 90)
+    (property "Reference" "R19" (at 38.1 113.03 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "22R" (at 38.1 115.57 90)
@@ -4407,10 +4196,10 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "R26") (unit 1)
+          (reference "R19") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "R9") (unit 1)
+          (reference "R?") (unit 1)
         )
       )
     )
@@ -4419,13 +4208,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 190.5 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 89956878-fd31-4862-a126-eacbda5d527e)
-    (property "Reference" "SW3" (at 190.5 80.01 0)
+    (property "Reference" "SW?" (at 190.5 80.01 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 190.5 82.55 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 190.5 87.63 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 190.5 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 190.5 87.63 0)
@@ -4436,13 +4225,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW3") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW49") (unit 1)
+          (reference "SW43") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW16") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -4451,7 +4240,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 181.61 93.98 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8b4bfa94-38ab-4992-b90a-488c4d63af37)
-    (property "Reference" "D1" (at 184.15 93.98 90)
+    (property "Reference" "D?" (at 184.15 93.98 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 184.15 95.25 90)
@@ -4474,83 +4263,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D46") (unit 1)
+          (reference "D42") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D14") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Switch:SW_Push_45deg") (at 190.5 129.54 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 8bc83818-3f36-4f1f-a327-d1478f68345c)
-    (property "Reference" "SW3" (at 190.5 121.92 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Value" "Cherry" (at 190.5 124.46 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 190.5 129.54 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 190.5 129.54 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 1fac7699-29d6-4961-93ac-621bf91ce683))
-    (pin "2" (uuid cf6e9ffd-f7e7-4c6b-bc54-c68edad04b38))
-    (instances
-      (project "isokey"
-        (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW3") (unit 1)
-        )
-        (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW83") (unit 1)
-        )
-        (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW16") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Diode:1N4448W") (at 204.47 135.89 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 8bf6ad01-285b-4632-8e57-874aeae2132a)
-    (property "Reference" "D1" (at 207.01 135.89 90)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "1N4448W" (at 207.01 137.16 90)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-    (property "Footprint" "Diode_SMD:D_SOD-123" (at 200.025 135.89 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "https://www.vishay.com/docs/85722/1n4448w.pdf" (at 204.47 135.89 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Sim.Device" "D" (at 204.47 135.89 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Sim.Pins" "1=K 2=A" (at 204.47 135.89 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 9576c0fe-1fdf-4b47-9729-3fbf8b87a8ba))
-    (pin "2" (uuid c047781f-1ec1-4160-89d5-62f8b2c55eb8))
-    (instances
-      (project "isokey"
-        (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
-        )
-        (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D84") (unit 1)
-        )
-        (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D18") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -4559,7 +4278,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 193.04 93.98 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8cabeb7d-9057-48ad-be13-cd160fa2d356)
-    (property "Reference" "D1" (at 195.58 93.98 90)
+    (property "Reference" "D?" (at 195.58 93.98 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 195.58 95.25 90)
@@ -4582,13 +4301,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D49") (unit 1)
+          (reference "D43") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D16") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -4597,7 +4316,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 204.47 93.98 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8f413c17-17ad-4d31-bfcb-2af88d3419bb)
-    (property "Reference" "D1" (at 207.01 93.98 90)
+    (property "Reference" "D?" (at 207.01 93.98 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 207.01 95.25 90)
@@ -4620,13 +4339,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D52") (unit 1)
+          (reference "D44") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D18") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -4635,7 +4354,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 76.2 93.98 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 91d9c82f-61f4-48c7-85e0-5e5f22e15747)
-    (property "Reference" "D1" (at 78.74 93.98 90)
+    (property "Reference" "D?" (at 78.74 93.98 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 78.74 95.25 90)
@@ -4658,13 +4377,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D23") (unit 1)
+          (reference "D33") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D16") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -4673,7 +4392,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 64.77 115.57 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 92980aef-486a-4c40-a4f6-b2602660c1e7)
-    (property "Reference" "D1" (at 67.31 115.57 90)
+    (property "Reference" "D?" (at 67.31 115.57 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 67.31 116.84 90)
@@ -4696,13 +4415,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D57") (unit 1)
+          (reference "D47") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D14") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -4711,13 +4430,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 132.08 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9311291b-263a-49fb-b5c5-725510668f05)
-    (property "Reference" "SW3" (at 132.08 58.42 0)
+    (property "Reference" "SW?" (at 132.08 58.42 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 132.08 60.96 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 132.08 66.04 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 132.08 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 132.08 66.04 0)
@@ -4728,13 +4447,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW3") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW33") (unit 1)
+          (reference "SW23") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW16") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -4743,13 +4462,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 109.22 129.54 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9502247f-4168-4e54-86bf-fb6066bbfa3d)
-    (property "Reference" "SW1" (at 109.22 121.92 0)
+    (property "Reference" "SW?" (at 109.22 121.92 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 109.22 124.46 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 109.22 129.54 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 109.22 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 109.22 129.54 0)
@@ -4760,13 +4479,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW1") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW76") (unit 1)
+          (reference "SW66") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW12") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -4775,13 +4494,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 73.66 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 973789cd-981b-479f-b9b4-3235a7a9fcd6)
-    (property "Reference" "SW3" (at 73.66 80.01 0)
+    (property "Reference" "SW?" (at 73.66 80.01 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 73.66 82.55 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 73.66 87.63 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 73.66 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 73.66 87.63 0)
@@ -4792,13 +4511,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW3") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW23") (unit 1)
+          (reference "SW33") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW16") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -4807,13 +4526,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 62.23 129.54 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 97f8db1e-7ad2-4d27-9f86-1abfce0dc252)
-    (property "Reference" "SW2" (at 62.23 121.92 0)
+    (property "Reference" "SW?" (at 62.23 121.92 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 62.23 124.46 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 62.23 129.54 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 62.23 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 62.23 129.54 0)
@@ -4824,13 +4543,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW2") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW72") (unit 1)
+          (reference "SW62") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW14") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -4839,13 +4558,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 96.52 109.22 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9a8546e0-d662-4efe-b146-d678059a70fe)
-    (property "Reference" "SW5" (at 96.52 101.6 0)
+    (property "Reference" "SW?" (at 96.52 101.6 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 96.52 104.14 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 96.52 109.22 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 96.52 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 96.52 109.22 0)
@@ -4856,13 +4575,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW5") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW60") (unit 1)
+          (reference "SW50") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW20") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -4871,13 +4590,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 154.94 44.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9c851824-ddf4-455d-978a-52d5c280abdd)
-    (property "Reference" "SW5" (at 154.94 36.83 0)
+    (property "Reference" "SW?" (at 154.94 36.83 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 154.94 39.37 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 154.94 44.45 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 154.94 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 154.94 44.45 0)
@@ -4888,13 +4607,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW5") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW38") (unit 1)
+          (reference "SW10") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW19") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -4903,7 +4622,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 64.77 50.8 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9cc3739b-5fbb-4cb9-b1bc-f34fa4e8bf04)
-    (property "Reference" "D1" (at 67.31 50.8 90)
+    (property "Reference" "D?" (at 67.31 50.8 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 67.31 52.07 90)
@@ -4926,13 +4645,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
           (reference "D2") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D13") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -4941,13 +4660,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 201.93 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9d18f8eb-fca1-4e69-8329-e4f1b164f8f2)
-    (property "Reference" "SW4" (at 201.93 80.01 0)
+    (property "Reference" "SW?" (at 201.93 80.01 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 201.93 82.55 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 201.93 87.63 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 201.93 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 201.93 87.63 0)
@@ -4958,13 +4677,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW4") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW52") (unit 1)
+          (reference "SW44") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW18") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -4973,7 +4692,7 @@
   (symbol (lib_id "Device:R") (at 38.1 97.79 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9d82d81a-322a-4edc-b209-e8fbcabc1b32)
-    (property "Reference" "R15" (at 38.1 91.44 90)
+    (property "Reference" "R18" (at 38.1 91.44 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "22R" (at 38.1 93.98 90)
@@ -4990,10 +4709,10 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "R15") (unit 1)
+          (reference "R18") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "R9") (unit 1)
+          (reference "R?") (unit 1)
         )
       )
     )
@@ -5002,7 +4721,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 87.63 93.98 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9dc6f4b2-da04-415f-99ea-b97c60e72cc4)
-    (property "Reference" "D1" (at 90.17 93.98 90)
+    (property "Reference" "D?" (at 90.17 93.98 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 90.17 95.25 90)
@@ -5025,13 +4744,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D24") (unit 1)
+          (reference "D34") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D18") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -5040,7 +4759,7 @@
   (symbol (lib_id "Device:R") (at 187.96 31.75 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9f7e0575-be48-4937-8d90-adaeda92a9f6)
-    (property "Reference" "R23" (at 190.5 30.48 0)
+    (property "Reference" "R13" (at 190.5 30.48 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "22R" (at 190.5 33.02 0)
@@ -5057,10 +4776,10 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "R23") (unit 1)
+          (reference "R13") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "R12") (unit 1)
+          (reference "R?") (unit 1)
         )
       )
     )
@@ -5069,13 +4788,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 73.66 109.22 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9fee178b-0270-4bed-b8aa-ce2cd3436ddf)
-    (property "Reference" "SW3" (at 73.66 101.6 0)
+    (property "Reference" "SW?" (at 73.66 101.6 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 73.66 104.14 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 73.66 109.22 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 73.66 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 73.66 109.22 0)
@@ -5086,13 +4805,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW3") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW58") (unit 1)
+          (reference "SW48") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW16") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -5121,7 +4840,7 @@
           (reference "R5") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "R14") (unit 1)
+          (reference "R?") (unit 1)
         )
       )
     )
@@ -5130,7 +4849,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 53.34 115.57 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a992670b-a2c6-4ed2-825c-1c0de6300c3e)
-    (property "Reference" "D1" (at 55.88 115.57 90)
+    (property "Reference" "D?" (at 55.88 115.57 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 55.88 116.84 90)
@@ -5153,13 +4872,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D56") (unit 1)
+          (reference "D46") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D12") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -5168,13 +4887,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 179.07 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid af597543-58ef-491e-beda-3b32ae8b6479)
-    (property "Reference" "SW2" (at 179.07 58.42 0)
+    (property "Reference" "SW?" (at 179.07 58.42 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 179.07 60.96 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 179.07 66.04 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 179.07 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 179.07 66.04 0)
@@ -5185,13 +4904,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW2") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW45") (unit 1)
+          (reference "SW27") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW14") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -5200,7 +4919,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 87.63 115.57 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b3af49c0-dc2d-4a73-be52-98cf1312efcf)
-    (property "Reference" "D1" (at 90.17 115.57 90)
+    (property "Reference" "D?" (at 90.17 115.57 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 90.17 116.84 90)
@@ -5223,13 +4942,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D59") (unit 1)
+          (reference "D49") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D18") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -5238,13 +4957,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 120.65 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b3e427e1-309a-4168-ba0c-ebfe8b1177ff)
-    (property "Reference" "SW2" (at 120.65 80.01 0)
+    (property "Reference" "SW?" (at 120.65 80.01 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 120.65 82.55 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 120.65 87.63 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 120.65 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 120.65 87.63 0)
@@ -5255,13 +4974,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW2") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW31") (unit 1)
+          (reference "SW37") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW14") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -5270,7 +4989,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 181.61 50.8 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b4371f4a-9949-4a25-a4ee-b0fca073d2d9)
-    (property "Reference" "D1" (at 184.15 50.8 90)
+    (property "Reference" "D?" (at 184.15 50.8 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 184.15 52.07 90)
@@ -5293,13 +5012,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D44") (unit 1)
+          (reference "D12") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D13") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -5308,7 +5027,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 215.9 115.57 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b5468d8a-b303-4346-8e48-b70d11a1c10c)
-    (property "Reference" "D1" (at 218.44 115.57 90)
+    (property "Reference" "D?" (at 218.44 115.57 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 218.44 116.84 90)
@@ -5331,13 +5050,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D70") (unit 1)
+          (reference "D60") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D20") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -5346,13 +5065,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 109.22 44.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b8fd714d-1f97-44d3-abfa-048ad787a336)
-    (property "Reference" "SW1" (at 109.22 36.83 0)
+    (property "Reference" "SW?" (at 109.22 36.83 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 109.22 39.37 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 109.22 44.45 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 109.22 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 109.22 44.45 0)
@@ -5363,13 +5082,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW1") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW26") (unit 1)
+          (reference "SW6") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW11") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -5378,7 +5097,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 99.06 93.98 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ba59aa12-1d86-4407-8f92-9cc0ea8a1362)
-    (property "Reference" "D1" (at 101.6 93.98 90)
+    (property "Reference" "D?" (at 101.6 93.98 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 101.6 95.25 90)
@@ -5401,13 +5120,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D25") (unit 1)
+          (reference "D35") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D20") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -5416,13 +5135,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 154.94 129.54 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bcd73f68-6e44-4cae-bffe-741cf4ed5a68)
-    (property "Reference" "SW5" (at 154.94 121.92 0)
+    (property "Reference" "SW?" (at 154.94 121.92 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 154.94 124.46 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 154.94 129.54 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 154.94 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 154.94 129.54 0)
@@ -5433,13 +5152,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW5") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW80") (unit 1)
+          (reference "SW70") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW20") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -5448,13 +5167,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 167.64 44.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bd056925-6b66-4d31-9019-d39772ba35f9)
-    (property "Reference" "SW1" (at 167.64 36.83 0)
+    (property "Reference" "SW?" (at 167.64 36.83 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 167.64 39.37 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 167.64 44.45 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 167.64 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 167.64 44.45 0)
@@ -5465,13 +5184,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW1") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW41") (unit 1)
+          (reference "SW11") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW11") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -5480,13 +5199,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 190.5 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid be8ddabf-d7e3-470d-9dcd-96766ff13530)
-    (property "Reference" "SW3" (at 190.5 58.42 0)
+    (property "Reference" "SW?" (at 190.5 58.42 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 190.5 60.96 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 190.5 66.04 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 190.5 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 190.5 66.04 0)
@@ -5497,13 +5216,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW3") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW48") (unit 1)
+          (reference "SW28") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW16") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -5512,7 +5231,7 @@
   (symbol (lib_id "Device:R") (at 165.1 31.75 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bf3b3970-75a5-4b6b-b715-8abcc26f755b)
-    (property "Reference" "R21" (at 167.64 30.48 0)
+    (property "Reference" "R11" (at 167.64 30.48 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "22R" (at 167.64 33.02 0)
@@ -5529,10 +5248,10 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "R21") (unit 1)
+          (reference "R11") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "R10") (unit 1)
+          (reference "R?") (unit 1)
         )
       )
     )
@@ -5541,7 +5260,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 76.2 50.8 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c0d76f93-7fbd-4f5a-9b69-a262fef79fb1)
-    (property "Reference" "D1" (at 78.74 50.8 90)
+    (property "Reference" "D?" (at 78.74 50.8 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 78.74 52.07 90)
@@ -5564,13 +5283,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
           (reference "D3") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D15") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -5579,7 +5298,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 157.48 50.8 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c0dd2991-2a84-4da6-af94-b8825a8c4a63)
-    (property "Reference" "D1" (at 160.02 50.8 90)
+    (property "Reference" "D?" (at 160.02 50.8 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 160.02 52.07 90)
@@ -5602,13 +5321,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D38") (unit 1)
+          (reference "D10") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D19") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -5617,13 +5336,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 154.94 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c2fa40b6-90be-439b-a1ad-c564018e1140)
-    (property "Reference" "SW5" (at 154.94 80.01 0)
+    (property "Reference" "SW?" (at 154.94 80.01 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 154.94 82.55 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 154.94 87.63 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 154.94 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 154.94 87.63 0)
@@ -5634,13 +5353,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW5") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
           (reference "SW40") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW20") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -5649,7 +5368,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 123.19 72.39 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c68f74f9-dd2b-4f36-b839-b138284dc8d9)
-    (property "Reference" "D1" (at 125.73 72.39 90)
+    (property "Reference" "D?" (at 125.73 72.39 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 125.73 73.66 90)
@@ -5672,13 +5391,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D30") (unit 1)
+          (reference "D22") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D14") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -5687,13 +5406,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 167.64 129.54 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c91622b4-c380-4ef1-96d2-d4d13862a3c5)
-    (property "Reference" "SW1" (at 167.64 121.92 0)
+    (property "Reference" "SW?" (at 167.64 121.92 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 167.64 124.46 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 167.64 129.54 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 167.64 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 167.64 129.54 0)
@@ -5704,22 +5423,22 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW1") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW81") (unit 1)
+          (reference "SW71") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW12") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
   )
 
   (symbol (lib_id "Diode:1N4448W") (at 204.47 115.57 270) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid ca0bf0df-51f2-4282-94d2-7a524c42f635)
-    (property "Reference" "D1" (at 207.01 115.57 90)
+    (property "Reference" "D?" (at 207.01 115.57 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 207.01 116.84 90)
@@ -5737,18 +5456,18 @@
     (property "Sim.Pins" "1=K 2=A" (at 204.47 115.57 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 95c1d977-e4e8-4863-98c5-ea38dc4595fe))
-    (pin "2" (uuid d1cd6005-47ad-406b-b298-0bfa5bfba5db))
+    (pin "1" (uuid 241a7c76-49c3-418e-918c-f984d1900f94))
+    (pin "2" (uuid b4b9db78-d30d-448c-b8ae-29fb759d6182))
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D69") (unit 1)
+          (reference "D59") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D18") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -5757,7 +5476,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 193.04 72.39 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid caec6b2e-c1fe-4ed0-8892-87d5bdab334f)
-    (property "Reference" "D1" (at 195.58 72.39 90)
+    (property "Reference" "D?" (at 195.58 72.39 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 195.58 73.66 90)
@@ -5780,13 +5499,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D48") (unit 1)
+          (reference "D28") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D16") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -5795,7 +5514,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 87.63 50.8 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cc13cf82-aff3-47ca-a4fd-86b4b762144b)
-    (property "Reference" "D1" (at 90.17 50.8 90)
+    (property "Reference" "D?" (at 90.17 50.8 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 90.17 52.07 90)
@@ -5818,13 +5537,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
           (reference "D4") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D17") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -5833,7 +5552,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 157.48 72.39 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cd59dedf-495f-4ffc-b339-78a1a2171783)
-    (property "Reference" "D1" (at 160.02 72.39 90)
+    (property "Reference" "D?" (at 160.02 72.39 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 160.02 73.66 90)
@@ -5856,13 +5575,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D39") (unit 1)
+          (reference "D25") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D20") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -5871,13 +5590,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 132.08 44.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cea76cb5-9064-4d71-8d74-bfe20dcd3655)
-    (property "Reference" "SW3" (at 132.08 36.83 0)
+    (property "Reference" "SW?" (at 132.08 36.83 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 132.08 39.37 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 132.08 44.45 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 132.08 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 132.08 44.45 0)
@@ -5888,13 +5607,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW3") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW32") (unit 1)
+          (reference "SW8") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW15") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -5903,13 +5622,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 85.09 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d15b8fb7-04ac-498a-be3d-eec621c07cb9)
-    (property "Reference" "SW4" (at 85.09 58.42 0)
+    (property "Reference" "SW?" (at 85.09 58.42 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 85.09 60.96 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 85.09 66.04 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 85.09 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 85.09 66.04 0)
@@ -5920,13 +5639,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW4") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW9") (unit 1)
+          (reference "SW19") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW18") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -5935,7 +5654,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 215.9 50.8 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d2f2211a-7e52-489c-9f56-0b5f53154eb0)
-    (property "Reference" "D1" (at 218.44 50.8 90)
+    (property "Reference" "D?" (at 218.44 50.8 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 218.44 52.07 90)
@@ -5958,13 +5677,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D53") (unit 1)
+          (reference "D15") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D19") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -5973,13 +5692,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 179.07 109.22 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d3b43399-1ac1-4e59-91fe-f3ea8dd70c6d)
-    (property "Reference" "SW2" (at 179.07 101.6 0)
+    (property "Reference" "SW?" (at 179.07 101.6 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 179.07 104.14 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 179.07 109.22 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 179.07 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 179.07 109.22 0)
@@ -5990,13 +5709,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW2") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW67") (unit 1)
+          (reference "SW57") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW14") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -6005,7 +5724,7 @@
   (symbol (lib_id "Device:R") (at 199.39 31.75 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d64f351c-132e-4530-9ce9-ba2bc4a31934)
-    (property "Reference" "R24" (at 201.93 30.48 0)
+    (property "Reference" "R14" (at 201.93 30.48 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "22R" (at 201.93 33.02 0)
@@ -6022,10 +5741,10 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "R24") (unit 1)
+          (reference "R14") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "R13") (unit 1)
+          (reference "R?") (unit 1)
         )
       )
     )
@@ -6034,7 +5753,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 64.77 72.39 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d7aa9c50-75cf-4f40-80b4-ac50aaa09a0f)
-    (property "Reference" "D1" (at 67.31 72.39 90)
+    (property "Reference" "D?" (at 67.31 72.39 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 67.31 73.66 90)
@@ -6057,13 +5776,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D7") (unit 1)
+          (reference "D17") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D14") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -6072,13 +5791,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 73.66 44.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d941ceba-6259-4390-9523-559a4ec89f47)
-    (property "Reference" "SW3" (at 73.66 36.83 0)
+    (property "Reference" "SW?" (at 73.66 36.83 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 73.66 39.37 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 73.66 44.45 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 73.66 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 73.66 44.45 0)
@@ -6089,13 +5808,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW3") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
           (reference "SW3") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW15") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -6104,7 +5823,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 87.63 72.39 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid da14a043-2ec2-4ec0-8258-4fb7953f29c7)
-    (property "Reference" "D1" (at 90.17 72.39 90)
+    (property "Reference" "D?" (at 90.17 72.39 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 90.17 73.66 90)
@@ -6127,13 +5846,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D9") (unit 1)
+          (reference "D19") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D18") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -6162,7 +5881,7 @@
           (reference "R4") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "R13") (unit 1)
+          (reference "R?") (unit 1)
         )
       )
     )
@@ -6171,7 +5890,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 170.18 72.39 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid daf2bd24-bc73-41c8-b0ea-83d5ce5ccd6b)
-    (property "Reference" "D1" (at 172.72 72.39 90)
+    (property "Reference" "D?" (at 172.72 72.39 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 172.72 73.66 90)
@@ -6194,13 +5913,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D42") (unit 1)
+          (reference "D26") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D12") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -6209,13 +5928,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 85.09 109.22 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid dcd0468c-ddac-4e0a-a4b9-6af3889e300e)
-    (property "Reference" "SW4" (at 85.09 101.6 0)
+    (property "Reference" "SW?" (at 85.09 101.6 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 85.09 104.14 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 85.09 109.22 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 85.09 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 85.09 109.22 0)
@@ -6226,13 +5945,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW4") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW59") (unit 1)
+          (reference "SW49") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW18") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -6241,7 +5960,7 @@
   (symbol (lib_id "Device:R") (at 38.1 139.7 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid de6b519a-2f1e-4324-9bbe-07ef550f5783)
-    (property "Reference" "R27" (at 38.1 133.35 90)
+    (property "Reference" "R20" (at 38.1 133.35 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "22R" (at 38.1 135.89 90)
@@ -6258,10 +5977,10 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "R27") (unit 1)
+          (reference "R20") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "R9") (unit 1)
+          (reference "R?") (unit 1)
         )
       )
     )
@@ -6270,13 +5989,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 213.36 44.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e1449594-4c25-45d5-be97-b16f5a05cdc7)
-    (property "Reference" "SW5" (at 213.36 36.83 0)
+    (property "Reference" "SW?" (at 213.36 36.83 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 213.36 39.37 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 213.36 44.45 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 213.36 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 213.36 44.45 0)
@@ -6287,13 +6006,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW5") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW53") (unit 1)
+          (reference "SW15") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW19") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -6302,13 +6021,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 62.23 44.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e15fca2a-8feb-41ca-b1eb-137bac0303d0)
-    (property "Reference" "SW2" (at 62.23 36.83 0)
+    (property "Reference" "SW?" (at 62.23 36.83 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 62.23 39.37 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 62.23 44.45 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 62.23 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 62.23 44.45 0)
@@ -6319,13 +6038,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW2") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
           (reference "SW2") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW13") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -6334,13 +6053,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 50.8 44.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e2088b96-c100-49d3-a7eb-b50c9229751b)
-    (property "Reference" "SW1" (at 50.8 36.83 0)
+    (property "Reference" "SW?" (at 50.8 36.83 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 50.8 39.37 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 50.8 44.45 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 50.8 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 50.8 44.45 0)
@@ -6351,13 +6070,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW1") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
           (reference "SW1") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW11") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -6366,13 +6085,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 201.93 44.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e3dca77b-a455-4627-a94a-27b20b0ee390)
-    (property "Reference" "SW4" (at 201.93 36.83 0)
+    (property "Reference" "SW?" (at 201.93 36.83 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 201.93 39.37 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 201.93 44.45 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 201.93 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 201.93 44.45 0)
@@ -6383,13 +6102,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW4") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW50") (unit 1)
+          (reference "SW14") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW17") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -6398,7 +6117,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 146.05 72.39 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e5f9f3d7-d5e5-4600-8f8e-e2ad9a4c3bc8)
-    (property "Reference" "D1" (at 148.59 72.39 90)
+    (property "Reference" "D?" (at 148.59 72.39 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 148.59 73.66 90)
@@ -6421,13 +6140,42 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D36") (unit 1)
+          (reference "D24") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D18") (unit 1)
+          (reference "D?") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Device:R") (at 38.1 54.61 90) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid e8716ee5-a114-45a8-9e1b-679940d1938c)
+    (property "Reference" "R16" (at 38.1 48.26 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "22R" (at 38.1 50.8 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 38.1 56.388 90)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 38.1 54.61 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 47c375f2-6b65-4bb4-a46c-b2267aed9103))
+    (pin "2" (uuid 617a8673-1241-43a4-bd22-9e93ab230f9f))
+    (instances
+      (project "isokey"
+        (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
+          (reference "R16") (unit 1)
+        )
+        (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
+          (reference "R?") (unit 1)
         )
       )
     )
@@ -6436,7 +6184,7 @@
   (symbol (lib_id "Device:R") (at 210.82 31.75 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid eb25753e-5d7a-48c2-9225-87de61010e68)
-    (property "Reference" "R25" (at 213.36 30.48 0)
+    (property "Reference" "R15" (at 213.36 30.48 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "22R" (at 213.36 33.02 0)
@@ -6453,10 +6201,10 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "R25") (unit 1)
+          (reference "R15") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "R14") (unit 1)
+          (reference "R?") (unit 1)
         )
       )
     )
@@ -6465,7 +6213,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 64.77 135.89 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid eb780e6a-f0f1-4676-913a-f98251132bf2)
-    (property "Reference" "D1" (at 67.31 135.89 90)
+    (property "Reference" "D?" (at 67.31 135.89 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 67.31 137.16 90)
@@ -6488,13 +6236,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D72") (unit 1)
+          (reference "D62") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D14") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -6503,7 +6251,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 76.2 72.39 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid eb8748d1-eb11-43fa-b88d-16fb8f9cf821)
-    (property "Reference" "D1" (at 78.74 72.39 90)
+    (property "Reference" "D?" (at 78.74 72.39 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 78.74 73.66 90)
@@ -6526,13 +6274,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D8") (unit 1)
+          (reference "D18") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D16") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -6541,7 +6289,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 99.06 115.57 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid eed13e25-f0ca-4c5d-9f03-21e7dea55df0)
-    (property "Reference" "D1" (at 101.6 115.57 90)
+    (property "Reference" "D?" (at 101.6 115.57 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 101.6 116.84 90)
@@ -6564,13 +6312,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D60") (unit 1)
+          (reference "D50") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D20") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -6579,7 +6327,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 134.62 93.98 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid efb531ad-74de-4d93-a916-a157858c2da6)
-    (property "Reference" "D1" (at 137.16 93.98 90)
+    (property "Reference" "D?" (at 137.16 93.98 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 137.16 95.25 90)
@@ -6602,13 +6350,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D34") (unit 1)
+          (reference "D38") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D16") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -6617,13 +6365,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 167.64 109.22 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f0a2d90e-b7e9-4849-8f9c-c3e682c1a67a)
-    (property "Reference" "SW1" (at 167.64 101.6 0)
+    (property "Reference" "SW?" (at 167.64 101.6 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 167.64 104.14 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 167.64 109.22 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 167.64 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 167.64 109.22 0)
@@ -6634,13 +6382,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW1") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW66") (unit 1)
+          (reference "SW56") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW12") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -6649,7 +6397,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 64.77 93.98 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f18762f9-c03b-4cea-a891-b9a686345ac3)
-    (property "Reference" "D1" (at 67.31 93.98 90)
+    (property "Reference" "D?" (at 67.31 93.98 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 67.31 95.25 90)
@@ -6672,13 +6420,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D22") (unit 1)
+          (reference "D32") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D14") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -6687,7 +6435,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 123.19 135.89 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f1f5d6f0-6738-4e74-8f37-e35c5416e6c6)
-    (property "Reference" "D1" (at 125.73 135.89 90)
+    (property "Reference" "D?" (at 125.73 135.89 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 125.73 137.16 90)
@@ -6710,13 +6458,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D77") (unit 1)
+          (reference "D67") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D14") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -6725,13 +6473,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 85.09 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f4edfbce-da7a-4ab9-8af4-f5c4954fa45a)
-    (property "Reference" "SW4" (at 85.09 80.01 0)
+    (property "Reference" "SW?" (at 85.09 80.01 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 85.09 82.55 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 85.09 87.63 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 85.09 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 85.09 87.63 0)
@@ -6742,13 +6490,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW4") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW24") (unit 1)
+          (reference "SW34") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW18") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -6757,7 +6505,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 111.76 93.98 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f94037e8-7cb8-438e-a50f-04aa3c4459b0)
-    (property "Reference" "D1" (at 114.3 93.98 90)
+    (property "Reference" "D?" (at 114.3 93.98 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 114.3 95.25 90)
@@ -6780,13 +6528,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D28") (unit 1)
+          (reference "D36") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D12") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -6795,7 +6543,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 87.63 135.89 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f9429105-cf88-4c61-b0c8-28fce817baca)
-    (property "Reference" "D1" (at 90.17 135.89 90)
+    (property "Reference" "D?" (at 90.17 135.89 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 90.17 137.16 90)
@@ -6818,13 +6566,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D74") (unit 1)
+          (reference "D64") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D18") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -6833,13 +6581,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 190.5 44.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f99de793-01aa-48da-b649-5c23f3b0ba48)
-    (property "Reference" "SW3" (at 190.5 36.83 0)
+    (property "Reference" "SW?" (at 190.5 36.83 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 190.5 39.37 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 190.5 44.45 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 190.5 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 190.5 44.45 0)
@@ -6850,13 +6598,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW3") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW47") (unit 1)
+          (reference "SW13") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW15") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -6865,7 +6613,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 146.05 93.98 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f9e7642a-e919-46b3-b69b-55f77eca23d2)
-    (property "Reference" "D1" (at 148.59 93.98 90)
+    (property "Reference" "D?" (at 148.59 93.98 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 148.59 95.25 90)
@@ -6888,13 +6636,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D37") (unit 1)
+          (reference "D39") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D18") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -6903,13 +6651,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 120.65 109.22 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fa942f98-c49e-4b6d-a2e2-a4db4df0979c)
-    (property "Reference" "SW2" (at 120.65 101.6 0)
+    (property "Reference" "SW?" (at 120.65 101.6 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 120.65 104.14 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 120.65 109.22 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 120.65 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 120.65 109.22 0)
@@ -6920,13 +6668,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW2") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW62") (unit 1)
+          (reference "SW52") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW14") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -6935,13 +6683,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 179.07 129.54 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fc3da419-dba3-4c52-ae2f-42a29545f70d)
-    (property "Reference" "SW2" (at 179.07 121.92 0)
+    (property "Reference" "SW?" (at 179.07 121.92 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 179.07 124.46 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 179.07 129.54 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 179.07 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 179.07 129.54 0)
@@ -6952,13 +6700,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW2") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW82") (unit 1)
+          (reference "SW72") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW14") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -6967,13 +6715,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 167.64 87.63 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fc744450-3430-4398-b0bf-b87b7e6d066e)
-    (property "Reference" "SW1" (at 167.64 80.01 0)
+    (property "Reference" "SW?" (at 167.64 80.01 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 167.64 82.55 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 167.64 87.63 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 167.64 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 167.64 87.63 0)
@@ -6984,13 +6732,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW1") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW43") (unit 1)
+          (reference "SW41") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW12") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -6999,7 +6747,7 @@
   (symbol (lib_id "Device:R") (at 129.54 31.75 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fd717680-de0b-4b87-a1f0-6dcac6dad629)
-    (property "Reference" "R18" (at 132.08 30.48 0)
+    (property "Reference" "R8" (at 132.08 30.48 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "22R" (at 132.08 33.02 0)
@@ -7016,10 +6764,10 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "R18") (unit 1)
+          (reference "R8") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "R12") (unit 1)
+          (reference "R?") (unit 1)
         )
       )
     )
@@ -7028,13 +6776,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 154.94 109.22 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fe30a4db-883b-4174-93c8-a5a77427df89)
-    (property "Reference" "SW5" (at 154.94 101.6 0)
+    (property "Reference" "SW?" (at 154.94 101.6 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Cherry" (at 154.94 104.14 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 154.94 109.22 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_MX" (at 154.94 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 154.94 109.22 0)
@@ -7045,13 +6793,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "SW5") (unit 1)
+          (reference "SW?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "SW65") (unit 1)
+          (reference "SW55") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "SW20") (unit 1)
+          (reference "SW?") (unit 1)
         )
       )
     )
@@ -7060,7 +6808,7 @@
   (symbol (lib_id "Diode:1N4448W") (at 53.34 72.39 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fed1b0ef-b206-4f9c-b4b4-e89a25b45af0)
-    (property "Reference" "D1" (at 55.88 72.39 90)
+    (property "Reference" "D?" (at 55.88 72.39 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1N4448W" (at 55.88 73.66 90)
@@ -7083,13 +6831,13 @@
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/fdcf2c12-f432-4cc9-a99f-9b8019eb8ce2"
-          (reference "D6") (unit 1)
+          (reference "D16") (unit 1)
         )
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "D12") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )

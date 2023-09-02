@@ -1354,6 +1354,31 @@
     )
   )
 
+  (symbol (lib_id "power:GND") (at 217.17 81.28 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 026540a6-fe86-4a26-b9c4-ba0ba551752d)
+    (property "Reference" "#PWR067" (at 217.17 87.63 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 217.17 86.36 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 217.17 81.28 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 217.17 81.28 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 3fb3186f-032e-4591-9e87-5377a16b1292))
+    (instances
+      (project "isokey"
+        (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
+          (reference "#PWR067") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:GND") (at 304.8 223.52 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 03eb2b19-0cf7-448c-af23-f9a27b5cd81d)
@@ -2126,6 +2151,31 @@
     )
   )
 
+  (symbol (lib_id "power:GND") (at 270.51 119.38 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 17d2d689-79ca-4095-92b3-5f98493422b7)
+    (property "Reference" "#PWR0234" (at 270.51 125.73 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 270.51 124.46 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 270.51 119.38 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 270.51 119.38 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid e46e623c-dde7-4955-87cd-bff339707b41))
+    (instances
+      (project "isokey"
+        (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
+          (reference "#PWR0234") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:+5V") (at 350.52 223.52 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 17fa3bbf-397b-4bfb-834d-bf9fdb5aa800)
@@ -2407,6 +2457,31 @@
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
           (reference "#PWR05") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:GND") (at 297.18 119.38 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 1dc6da15-5a87-453e-ac14-c4eeb5a6c54f)
+    (property "Reference" "#PWR0235" (at 297.18 125.73 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 297.18 124.46 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 297.18 119.38 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 297.18 119.38 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 4b9c86b1-fa0e-467a-b63c-6a3b9f33a5ac))
+    (instances
+      (project "isokey"
+        (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
+          (reference "#PWR0235") (unit 1)
         )
       )
     )
@@ -4186,6 +4261,31 @@
     )
   )
 
+  (symbol (lib_id "power:GND") (at 350.52 119.38 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 4c907a27-d65c-4758-ba97-62fbadbbda7a)
+    (property "Reference" "#PWR0237" (at 350.52 125.73 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 350.52 124.46 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 350.52 119.38 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 350.52 119.38 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 6308e54b-7abe-4b05-99bd-01608832ee4c))
+    (instances
+      (project "isokey"
+        (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
+          (reference "#PWR0237") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:+5V") (at 323.85 24.13 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4d16561e-7301-4919-83da-86a8de798753)
@@ -4262,6 +4362,31 @@
     )
   )
 
+  (symbol (lib_id "power:GND") (at 323.85 119.38 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 4e632533-a9f3-416f-b008-78919f6b0f4a)
+    (property "Reference" "#PWR0236" (at 323.85 125.73 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 323.85 124.46 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 323.85 119.38 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 323.85 119.38 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 2f06e89f-83a7-45e2-99e4-7901a0e0ff49))
+    (instances
+      (project "isokey"
+        (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
+          (reference "#PWR0236") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:GND") (at 198.12 24.13 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4f312b08-035b-4359-8fff-eeec7d390e80)
@@ -4282,31 +4407,6 @@
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
           (reference "#PWR012") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:GND") (at 243.84 81.28 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 4f6aca55-f90d-499d-a6f4-a7dd599c2c33)
-    (property "Reference" "#PWR068" (at 243.84 87.63 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "GND" (at 243.84 86.36 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 243.84 81.28 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 243.84 81.28 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 46271189-0c28-4010-bf30-6ed254740b46))
-    (instances
-      (project "isokey"
-        (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "#PWR068") (unit 1)
         )
       )
     )
@@ -5106,6 +5206,31 @@
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
           (reference "#PWR074") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:GND") (at 350.52 81.28 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 6527abe8-a3a8-4d02-b593-804c34d0b99c)
+    (property "Reference" "#PWR0233" (at 350.52 87.63 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 350.52 86.36 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 350.52 81.28 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 350.52 81.28 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 934198bd-cab6-4c9d-9184-ec7a4384c8ee))
+    (instances
+      (project "isokey"
+        (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
+          (reference "#PWR0233") (unit 1)
         )
       )
     )
@@ -6842,6 +6967,31 @@
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
           (reference "#PWR0161") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:GND") (at 243.84 81.28 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 953ad648-815b-44fd-8c4a-787e3bc0494c)
+    (property "Reference" "#PWR068" (at 243.84 87.63 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 243.84 86.36 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 243.84 81.28 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 243.84 81.28 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 7c79b70a-eaaa-4334-b820-38dde0cca74a))
+    (instances
+      (project "isokey"
+        (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
+          (reference "#PWR068") (unit 1)
         )
       )
     )
@@ -9877,6 +10027,31 @@
     )
   )
 
+  (symbol (lib_id "power:GND") (at 270.51 81.28 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid e3a65298-3cf8-4d99-9e22-ffd522decac5)
+    (property "Reference" "#PWR0230" (at 270.51 87.63 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 270.51 86.36 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 270.51 81.28 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 270.51 81.28 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 90fcf7fe-bd66-43e1-b216-e0070e061c96))
+    (instances
+      (project "isokey"
+        (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
+          (reference "#PWR0230") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Device:C") (at 300.99 101.6 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e3cc6359-ad8c-4363-8050-9d5ec5333f50)
@@ -10163,6 +10338,31 @@
     )
   )
 
+  (symbol (lib_id "power:GND") (at 297.18 81.28 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid eb66f406-e6dc-419d-b4c3-45c954819b44)
+    (property "Reference" "#PWR0231" (at 297.18 87.63 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 297.18 86.36 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 297.18 81.28 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 297.18 81.28 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 18abba5f-d08f-442e-81a4-47a5183333c2))
+    (instances
+      (project "isokey"
+        (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
+          (reference "#PWR0231") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "power:GND") (at 278.13 223.52 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ebd921e4-cd54-4a42-a012-b01997ed55da)
@@ -10237,31 +10437,6 @@
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
           (reference "C48") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "power:GND") (at 217.17 81.28 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid eea54a0f-c686-4e00-8457-3ccb3fb923fa)
-    (property "Reference" "#PWR067" (at 217.17 87.63 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "GND" (at 217.17 86.36 0)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 217.17 81.28 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 217.17 81.28 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid d8a639c3-0efa-420a-9d82-4690605e5045))
-    (instances
-      (project "isokey"
-        (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
-          (reference "#PWR067") (unit 1)
         )
       )
     )
@@ -10648,6 +10823,31 @@
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
           (reference "#PWR070") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:GND") (at 323.85 81.28 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid fa97c81f-f11f-4a4f-a035-0dc636d4b59e)
+    (property "Reference" "#PWR0232" (at 323.85 87.63 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 323.85 86.36 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 323.85 81.28 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 323.85 81.28 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 73622b38-8cd1-4d9d-b217-fba59fdf7591))
+    (instances
+      (project "isokey"
+        (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/870755d2-ff44-4c69-82b3-4018370ecd52"
+          (reference "#PWR0232") (unit 1)
         )
       )
     )

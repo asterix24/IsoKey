@@ -501,6 +501,10 @@
     [
       "870755d2-ff44-4c69-82b3-4018370ecd52",
       "ledsplate"
+    ],
+    [
+      "08b818ec-1371-4ecd-bb59-e4167af93fdf",
+      "led_driver"
     ]
   ],
   "text_variables": {}

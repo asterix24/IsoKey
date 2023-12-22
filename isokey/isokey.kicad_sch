@@ -261,7 +261,7 @@
       (property "Reference" "SW" (at 0 6.604 0)
         (effects (font (size 1.27 1.27)))
       )
-      (property "Value" "RotaryEncoder_Switch" (at 0 -6.604 0)
+      (property "Value" "RotaryEncoder_Switch" (at 3.81 8.89 0)
         (effects (font (size 1.27 1.27)))
       )
       (property "Footprint" "" (at -3.81 4.064 0)
@@ -431,6 +431,10 @@
         (pin passive line (at -7.62 0 0) (length 2.54)
           (name "C" (effects (font (size 1.27 1.27))))
           (number "C" (effects (font (size 1.27 1.27))))
+        )
+        (pin passive line (at 0 -7.62 90) (length 2.54)
+          (name "MP" (effects (font (size 1.27 1.27))))
+          (number "MP" (effects (font (size 1.27 1.27))))
         )
         (pin passive line (at 7.62 2.54 180) (length 2.54)
           (name "S1" (effects (font (size 1.27 1.27))))
@@ -3568,6 +3572,7 @@
     (pin "A" (uuid bdd7cd1e-5904-45dc-b2d9-08978f09bb1f))
     (pin "B" (uuid 92b79dd6-799b-4fc2-9994-c28a96c70591))
     (pin "C" (uuid ac91f144-8625-44fc-ba13-91a52ecf1014))
+    (pin "MP" (uuid 84a58bbc-a059-4d79-961d-78d275098f3d))
     (pin "S1" (uuid 8ace8d9f-f067-47e8-8f6b-f3413459458d))
     (pin "S2" (uuid 4b8931bf-d986-4d1d-8275-f31b76db3ae3))
     (instances
@@ -4066,6 +4071,34 @@
     )
   )
 
+  (symbol (lib_id "power:GND") (at 159.385 126.365 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 9b4d6909-e695-4e5a-88f7-0bf5d4046e38)
+    (property "Reference" "#PWR0246" (at 159.385 132.715 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 159.385 131.445 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 159.385 126.365 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 159.385 126.365 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid f46f7771-b7e1-4c4f-8b59-4c270cc328ed))
+    (instances
+      (project "isokey"
+        (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/08b818ec-1371-4ecd-bb59-e4167af93fdf"
+          (reference "#PWR0246") (unit 1)
+        )
+        (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
+          (reference "#PWR0217") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Connector_Generic_MountingPin:Conn_01x14_MountingPin") (at 67.31 33.02 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9c010bde-03a4-4007-8045-47c9380a6106)
@@ -4123,6 +4156,7 @@
     (pin "A" (uuid 46db6dcf-58dc-4b20-a662-4d757b87a952))
     (pin "B" (uuid b933f9a8-c00a-4e21-bf6e-44e990f54a12))
     (pin "C" (uuid 4ab74552-2da3-4768-9301-c1b83c8bd0ef))
+    (pin "MP" (uuid cb5d20e4-86c3-452f-876e-e8f0b8dcacd0))
     (pin "S1" (uuid 69bc2b36-f94d-4494-8279-fccb9b07f0e6))
     (pin "S2" (uuid 42edf3ae-40b9-4050-92e4-e105274fe92c))
     (instances
@@ -5312,6 +5346,34 @@
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
           (reference "#PWR0225") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:GND") (at 233.045 126.365 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid f1829758-5dc5-4c2a-acc3-5ef59dba0884)
+    (property "Reference" "#PWR0246" (at 233.045 132.715 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 233.045 131.445 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 233.045 126.365 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 233.045 126.365 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid d3834f56-8c4c-4ae2-b657-6ea13751e84a))
+    (instances
+      (project "isokey"
+        (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408/08b818ec-1371-4ecd-bb59-e4167af93fdf"
+          (reference "#PWR0246") (unit 1)
+        )
+        (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
+          (reference "#PWR0221") (unit 1)
         )
       )
     )

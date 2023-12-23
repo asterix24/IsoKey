@@ -1,21 +1,26 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"SW2,SW26,SW30,SW36,SW6,SW43,SW18,SW9,SW55,SW24,SW32,SW16,SW39,SW70,SW41,SW42,SW51,SW69,SW53,SW7,SW48,SW62,SW63,SW29,SW10,SW44,SW8,SW28,SW54,SW50,SW57,SW45,SW27,SW25,SW64,SW47,SW3,SW11,SW31,SW13,SW35,SW59,SW71,SW72,SW68,SW21,SW56,SW38,SW58,SW67,SW1,SW4,SW37,SW46,SW17,SW23,SW40,SW14,SW15,SW65,SW22,SW12,SW49,SW20,SW34,SW60,SW61,SW5,SW19,SW33,SW52";"Kailh_socket_MX_LED";71;"Cherry";;;
-2;"D76,D133,D109,D108,D129,D102,D80,D106,D144,D104,D88,D98,D125,D110,D83,D140,D121,D92,D94,D87,D137,D123,D84,D146,D91,D115,D130,D138,D136,D95,D131,D107,D96,D101,D79,D142,D112,D145,D127,D143,D126,D120,D93,D147,D77,D111,D85,D122,D128,D97,D135,D82,D105,D134,D139,D124,D113,D78,D89,D90,D99,D119,D103,D117,D114,D100,D132,D118,D81,D116,D86";"LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm";71;"SK6812MINI";;;
-3;"C86,C84,C87,C82,C81,C89,C85,C88,C80,C83";"C_0805_2012Metric";10;"1uF";;;
-4;"R28,R27,R26,R36,R65,R59,R64,R31,R35,R25,R32";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";11;"10k";;;
-5;"U1";"BlackPill";1;"BlackPill_STLINK";;;
-6;"C94,C95,C90,C91";"C_1206_3216Metric";4;"10uF";;;
-7;"R1,R15,R46,R11,R18,R14,R2,R13,R63,R37,R3,R16,R10,R38,R12,R17,R6,R24,R7,R66,R20,R9,R67,R30,R29,R22,R5,R21,R23,R33,R34,R8,R4,R19,R61";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";35;"22R";;;
-8;"H2,H4,H3,H1";"Stabilizer_MX_2u";4;"StabilizerHoles";;;
-9;"D160,D159,D165,D162,D75,D164,D163,D167,D155,D153,D74,D154,D157,D156,D166,D73,D161,D158";"LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder";18;"LED";;;
-10;"U2";"WQFN-24-1EP_4x4mm_P0.5mm_EP2.45x2.45mm_ThermalVias";1;"LP5569";;;
-11;"J1";"JST_GH_SM14B-GHS-TB_1x14-1MP_P1.25mm_Horizontal";1;"PadExp Left";;;
-12;"C98,C9,C2,C61,C51,C32,C59,C8,C78,C31,C96,C18,C3,C69,C5,C29,C35,C36,C25,C60,C37,C33,C43,C49,C73,C1,C75,C4,C55,C7,C17,C79,C14,C21,C16,C22,C28,C42,C27,C71,C41,C20,C62,C92,C54,C39,C76,C38,C64,C12,C50,C19,C72,C52,C93,C6,C70,C11,C30,C26,C63,C10,C44,C46,C24,C15,C48,C53,C58,C13,C97,C40,C67,C23,C47,C74,C65";"C_0603_1608Metric_Pad1.08x0.95mm_HandSolder";77;"100nF";;;
-13;"SW73,SW74";"RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm_CircularMountingHoles";2;"RotaryEncoder_Switch";;;
-14;"J2";"JST_GH_SM14B-GHS-TB_1x14-1MP_P1.25mm_Horizontal";1;"PadExp Right";;;
-15;"U5";"OLED_Display_128x32_SSD1306_i2c";1;"~";;;
-16;"U3";"WQFN-24-1EP_4x4mm_P0.5mm_EP2.45x2.45mm_ThermalVias";1;"~";;;
-17;"D21,D47,D61,D33,D50,D17,D9,D10,D25,D13,D68,D2,D51,D7,D42,D72,D6,D43,D16,D18,D54,D35,D23,D48,D56,D46,D71,D45,D12,D30,D66,D57,D58,D41,D5,D28,D38,D36,D67,D15,D49,D52,D31,D69,D44,D63,D70,D20,D53,D29,D1,D3,D59,D64,D37,D34,D4,D39,D19,D26,D22,D40,D32,D65,D27,D60,D11,D55,D8,D24,D62,D14,D169";"D_SOD-123";73;"1N4448W";;;
-18;"U4";"SOT-23-5";1;"TLV73318PDBV";;;
-19;"R60";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";1;"4k7";;;
-20;"Q1";"SOT-23-3";1;"BSS138";;;
+"Source:","/Users/asterix/src/github/isokey/isokey/isokey.kicad_sch"
+"Date:","2023 December 23, Saturday 00:03:04"
+"Tool:","Eeschema 7.0.7"
+"Generator:","/Applications/KiCad/KiCad.app/Contents/SharedSupport/plugins/bom_csv_grouped_by_value_with_fp.py"
+"Component Count:","385"
+"Ref","Qnty","Value","Cmp name","Footprint","Description","Vendor","DNP"
+"C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20, C21, C22, C23, C24, C25, C26, C27, C28, C29, C30, C31, C32, C33, C35, C36, C37, C38, C39, C40, C41, C42, C43, C44, C46, C47, C48, C49, C50, C51, C52, C53, C54, C55, C58, C59, C60, C61, C62, C63, C64, C65, C67, C69, C70, C71, C72, C73, C74, C75, C76, C78, C79, C92, C93, C96, C97, C98","77","100nF","C","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","Unpolarized capacitor","",""
+"C80, C81, C82, C83, C84, C85, C86, C87, C88, C89","10","1uF","C","Capacitor_SMD:C_0805_2012Metric","Unpolarized capacitor","",""
+"C90, C91, C94, C95","4","10uF","C","Capacitor_SMD:C_1206_3216Metric","Unpolarized capacitor","",""
+"D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D30, D31, D32, D33, D34, D35, D36, D37, D38, D39, D40, D41, D42, D43, D44, D45, D46, D47, D48, D49, D50, D51, D52, D53, D54, D55, D56, D57, D58, D59, D60, D61, D62, D63, D64, D65, D66, D67, D68, D69, D70, D71, D72, D169","73","1N4448W","1N4448W","Diode_SMD:D_SOD-123","100V 0.15A High-speed standard diode, SOD-123","",""
+"D73, D74, D75, D153, D154, D155, D156, D157, D158, D159, D160, D161, D162, D163, D164, D165, D166, D167","18","LED","LED","LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder","Light emitting diode","",""
+"D76, D77, D78, D79, D80, D81, D82, D83, D84, D85, D86, D87, D88, D89, D90, D91, D92, D93, D94, D95, D96, D97, D98, D99, D100, D101, D102, D103, D104, D105, D106, D107, D108, D109, D110, D111, D112, D113, D114, D115, D116, D117, D118, D119, D120, D121, D122, D123, D124, D125, D126, D127, D128, D129, D130, D131, D132, D133, D134, D135, D136, D137, D138, D139, D140, D142, D143, D144, D145, D146, D147","71","SK6812MINI","SK6812MINI","LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm","RGB LED with integrated controller","",""
+"H1, H2, H3, H4","4","StabilizerHoles","MountingHole","Button_Switch_Keyboard:Stabilizer_MX_2u","Mounting Hole without connection","",""
+"J1","1","PadExp Left","Conn_01x14_MountingPin","Connector_JST:JST_GH_SM14B-GHS-TB_1x14-1MP_P1.25mm_Horizontal","Generic connectable mounting pin connector, single row, 01x14, script generated (kicad-library-utils/schlib/autogen/connector/)","",""
+"J2","1","PadExp Right","Conn_01x14_MountingPin","Connector_JST:JST_GH_SM14B-GHS-TB_1x14-1MP_P1.25mm_Horizontal","Generic connectable mounting pin connector, single row, 01x14, script generated (kicad-library-utils/schlib/autogen/connector/)","",""
+"Q1","1","BSS138","NMOS","Package_TO_SOT_SMD:SOT-23-3","N-MOSFET transistor, drain/source/gate","",""
+"R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22, R23, R24, R29, R30, R33, R34, R37, R38, R46, R61, R63, R66, R67","35","22R","R","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","Resistor","",""
+"R25, R26, R27, R28, R31, R32, R35, R36, R59, R64, R65","11","10k","R","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","Resistor","",""
+"R60","1","4k7","R","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","Resistor","",""
+"SW1, SW2, SW3, SW4, SW5, SW6, SW7, SW8, SW9, SW10, SW11, SW12, SW13, SW14, SW15, SW16, SW17, SW18, SW19, SW20, SW21, SW22, SW23, SW24, SW25, SW26, SW27, SW28, SW29, SW30, SW31, SW32, SW33, SW34, SW35, SW36, SW37, SW38, SW39, SW40, SW41, SW42, SW43, SW44, SW45, SW46, SW47, SW48, SW49, SW50, SW51, SW52, SW53, SW54, SW55, SW56, SW57, SW58, SW59, SW60, SW61, SW62, SW63, SW64, SW65, SW67, SW68, SW69, SW70, SW71, SW72","71","Cherry","SW_Push_45deg","Button_Switch_Keyboard:Kailh_socket_MX_LED","Push button switch, normally open, two pins, 45° tilted","",""
+"SW73, SW74","2","RotaryEncoder_Switch","RotaryEncoder_Switch","Rotary_Encoder:RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm_CircularMountingHoles","Rotary encoder, dual channel, incremental quadrate outputs, with switch","",""
+"U1","1","BlackPill_STLINK","BlackPill_STLINK","Module:BlackPill","STM32F4-based ""Black Pill"" micro-controller development board","",""
+"U2","1","LP5569","LP5569","Package_DFN_QFN:WQFN-24-1EP_4x4mm_P0.5mm_EP2.45x2.45mm_ThermalVias","","",""
+"U3","1","~","LP5569","Package_DFN_QFN:WQFN-24-1EP_4x4mm_P0.5mm_EP2.45x2.45mm_ThermalVias","","",""
+"U4","1","TLV73318PDBV","TLV73318PDBV","Package_TO_SOT_SMD:SOT-23-5","300mA Capacitor-Free Low Dropout Voltage Regulator, Fixed Output 1.8V, SOT-23-5","",""
+"U5","1","~","OLED_Display_128x32_SSD1306_i2c","Display:OLED_Display_128x32_SSD1306_i2c","","",""

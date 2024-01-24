@@ -505,10 +505,6 @@
     [
       "08b818ec-1371-4ecd-bb59-e4167af93fdf",
       "led_driver"
-    ],
-    [
-      "b2026e12-6b49-42a9-b843-06edc7095bdb",
-      "trackball"
     ]
   ],
   "text_variables": {}

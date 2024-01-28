@@ -1048,8 +1048,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 81.28 158.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5287e030-1889-4250-8c69-08809e1447e8))
-    (pin "2" (uuid 39471f25-ab29-473c-a6e1-42a667826bfe))
+    (pin "1" (uuid fdf9fe4e-5320-44bc-87ae-60f80d346ff2))
+    (pin "2" (uuid b2e470d2-3da5-4284-9c2e-b0d877e98cd8))
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
@@ -1322,8 +1322,8 @@
     (property "Datasheet" "~" (at 71.755 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a729a4bd-0165-45f5-9a1a-714705fb3ac8))
-    (pin "2" (uuid e770b812-1c77-4c26-8879-f2d478be4e43))
+    (pin "1" (uuid f68d007d-a6f5-48cd-ba05-a19dfb5e6cc7))
+    (pin "2" (uuid f4a9aeab-c975-4771-9dd2-cda466f533b4))
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
@@ -1774,8 +1774,8 @@
     (property "Datasheet" "~" (at 66.675 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 32fbe7bd-66a6-4cd1-8803-1e8e9b967a80))
-    (pin "2" (uuid acf6d4ff-4e2c-4cc9-a8e2-393595f9eb9a))
+    (pin "1" (uuid 6e6be7a9-caff-4474-b6bd-530e6ec17b87))
+    (pin "2" (uuid 42395065-07a4-41ad-b301-1b54f98fb4b4))
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
@@ -1984,8 +1984,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 91.44 158.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d8c84aef-43b9-47eb-b7cf-4caa1bf338b3))
-    (pin "2" (uuid e02331f1-c048-4a86-ac07-966dadca8068))
+    (pin "1" (uuid 2a9908e7-c734-4845-9a17-fc5ef8b84ae6))
+    (pin "2" (uuid 62da7af6-d0db-4823-8c60-23ff7365d145))
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
@@ -2118,8 +2118,8 @@
     (property "Datasheet" "~" (at 118.11 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e0ed06e3-7baf-4c1a-b0da-e0f0324445d2))
-    (pin "2" (uuid fc4c8cde-f213-47c0-9e4f-e60f53241f1f))
+    (pin "1" (uuid 8de281a3-ff03-4554-8a70-f1f0abbebf35))
+    (pin "2" (uuid f543f12a-1259-4299-8d0f-0808f1743a95))
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
@@ -2564,8 +2564,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 74.295 158.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2979763a-7b9b-4143-8c27-e0fe457beb6a))
-    (pin "2" (uuid 4d7df310-0f6e-4ef5-ada3-242d5f6fc0d4))
+    (pin "1" (uuid 89c02956-d418-4029-a7a5-055d8d33facc))
+    (pin "2" (uuid 4440c202-be84-4e06-8d2b-15658664fdaf))
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
@@ -2602,8 +2602,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 98.425 158.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 812dcd0b-14ad-4a59-9d09-c1f99562daf5))
-    (pin "2" (uuid 72106493-48df-4903-8805-88ddc32449db))
+    (pin "1" (uuid 25b2cf67-6da3-4827-ba7e-bc6010f9dab7))
+    (pin "2" (uuid f39072d1-2ec9-4d04-a1ee-5441cd10d8ea))
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
@@ -2666,8 +2666,8 @@
     (property "Datasheet" "~" (at 83.82 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 513b364b-6040-47df-bc2a-7598eb966fb7))
-    (pin "2" (uuid 76e5bd16-6fdc-4570-a458-6037ccae6ea1))
+    (pin "1" (uuid 1e2996cb-355a-4f9c-9f13-bc7606a58f46))
+    (pin "2" (uuid 9d370463-cac7-4785-be0d-609abdaffe3b))
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
@@ -2736,8 +2736,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 108.585 158.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4510e61c-3d8d-409b-bb9c-ad01c3958ee1))
-    (pin "2" (uuid f1b7847f-53a4-4e53-9600-b54f3e8fd384))
+    (pin "1" (uuid 4e60c508-2aac-4a4a-9b63-6fbbf201c595))
+    (pin "2" (uuid 66841a9d-b30d-4eac-847d-5461c4da3e62))
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
@@ -2768,8 +2768,8 @@
     (property "Datasheet" "~" (at 100.965 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid dac105f5-2a40-4b39-aeab-ca18424e6e2a))
-    (pin "2" (uuid e95bbb32-dc04-4c21-93ba-377900c82050))
+    (pin "1" (uuid a7f38744-fb50-4576-af53-10b0f53c4656))
+    (pin "2" (uuid 99b8b5a6-10fc-4a47-9466-b7f46825e4f6))
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
@@ -2946,8 +2946,8 @@
     (property "Datasheet" "~" (at 123.19 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 15327091-a509-4567-8778-6e4af0fc1e44))
-    (pin "2" (uuid 9012079d-2aef-45cd-aab3-226344233380))
+    (pin "1" (uuid 6a99831c-7433-45a1-b67a-658c493c3003))
+    (pin "2" (uuid 9c5a8940-74cb-4d4f-9829-96265a5695c7))
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
@@ -3060,8 +3060,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 115.57 158.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bd718398-4dff-471a-af82-7d6fbe148265))
-    (pin "2" (uuid a6e9a24a-a311-43cb-9683-95759dcc5106))
+    (pin "1" (uuid 5f788edb-45ad-4c95-9b04-81702bc96af3))
+    (pin "2" (uuid 7d786f73-b385-49f4-b418-782bd66ecf72))
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
@@ -3378,8 +3378,8 @@
     (property "Datasheet" "~" (at 106.045 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e614175d-4f19-47cf-862a-38c4933d67bf))
-    (pin "2" (uuid 5a5344ab-f88e-416a-b5f9-6f0e0bf80a4e))
+    (pin "1" (uuid 3fa3c638-b243-4f99-9244-280a8a40e204))
+    (pin "2" (uuid 8e02e46d-3883-40cf-8e59-e1a5cf66e42d))
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
@@ -3410,8 +3410,8 @@
     (property "Datasheet" "~" (at 88.9 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 476bff70-4101-40bc-9c74-cb0e9b07ac64))
-    (pin "2" (uuid 36af2a96-09ad-4e10-a49b-73693678cde4))
+    (pin "1" (uuid 855ef755-c38d-48e0-ad76-f0aa7e74419a))
+    (pin "2" (uuid 966f2661-1f50-47c9-a585-dd5c92273d1e))
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
@@ -3792,8 +3792,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 64.135 158.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 93846f97-032b-4b43-9261-e849305f2f80))
-    (pin "2" (uuid bd9c512a-28e6-4092-b6d9-5a9310c31c2a))
+    (pin "1" (uuid dcc9b756-80f1-43f3-b2cc-028c36d7dde7))
+    (pin "2" (uuid 3789146a-c8ec-4d19-a525-926e3d24fae4))
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
@@ -4058,8 +4058,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 125.73 158.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cab5b83f-c696-40f5-976f-a9b822c96e24))
-    (pin "2" (uuid 447a84ff-00ec-4d1a-b659-f712ea2830f0))
+    (pin "1" (uuid b0fc4c84-e94a-4b76-80cb-68499ed70a7a))
+    (pin "2" (uuid e8e5f86f-c830-4c18-afd0-301a753d7a54))
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"
@@ -4096,8 +4096,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 56.515 158.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8c318cf7-4236-46b0-8c79-208f1cc6e029))
-    (pin "2" (uuid 110e6c1e-9e63-4cb9-841a-87ba9afd4558))
+    (pin "1" (uuid f9538ddf-b828-4792-8ed4-8fd5c7a6109c))
+    (pin "2" (uuid 82ea39d9-a911-4ac0-9e78-adfbad4742a5))
     (instances
       (project "isokey"
         (path "/b0c352a4-2db1-45ff-8668-f2efdeb7d408"

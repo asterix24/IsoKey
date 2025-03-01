@@ -1,0 +1,28 @@
+ISO-10303-21;
+HEADER;
+FILE_DESCRIPTION (( 'STEP AP214' ),
+    '1' );
+FILE_NAME ('cherry_mx_key_cap.STEP',
+    '2024-01-07T21:19:09',
+    ( '' ),
+    ( '' ),
+    'SwSTEP 2.0',
+    'SolidWorks 2019',
+    '' );
+FILE_SCHEMA (( 'AUTOMOTIVE_DESIGN' ));
+ENDSEC;
+
+DATA;
+#1 = PRODUCT ( 'cherry_mx_key_cap', 'cherry_mx_key_cap', '', ( #5 ) ) ;
+#2 = APPLICATION_PROTOCOL_DEFINITION ( 'draft international standard', 'automotive_design', 1998, #6 ) ;
+#3 = APPLICATION_CONTEXT ( 'automotive_design' ) ;
+#4 = PRODUCT_DEFINITION_FORMATION_WITH_SPECIFIED_SOURCE ( 'TUTTO', '', #1, .NOT_KNOWN. ) ;
+#5 = PRODUCT_CONTEXT ( 'NONE', #6, 'mechanical' ) ;
+#6 = APPLICATION_CONTEXT ( 'automotive_design' ) ;
+#7 = PRODUCT_DEFINITION_CONTEXT ( 'detailed design', #3, 'design' ) ;
+#8 = PRODUCT_DEFINITION_SHAPE ( 'NONE', 'NONE',  #11 ) ;
+#9 = PRODUCT_RELATED_PRODUCT_CATEGORY ( 'part', '', ( #1 ) ) ;
+#10 = APPLICATION_PROTOCOL_DEFINITION ( 'draft international standard', 'automotive_design', 1998, #3 ) ;
+#11 = PRODUCT_DEFINITION ( 'NON CONOSCIUTO', '', #4, #7 ) ;
+ENDSEC;
+END-ISO-10303-21;

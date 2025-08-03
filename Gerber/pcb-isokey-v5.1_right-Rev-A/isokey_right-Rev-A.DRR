@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: isokey_right.PcbDoc   03/08/2025  00:12:42
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : isokey_right-Rev-A-RoundHoles.TXT
+ASCII SlotHoles File : isokey_right-Rev-A-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             286       PTH        1790.41mm (70.49inch)
+T2      0.55mm (22mil)                                            Slot              4         PTH        36.03mm (1.42inch)
+T3      0.9mm (35mil)                                             Round             27        PTH        130.22mm (5.13inch)
+T4      1.55mm (61mil)                                            Round             76        PTH        1074.22mm (42.29inch)
+T5      3mm (118mil)                                              Round             8         PTH        591.42mm (23.28inch)
+T6      1mm (39mil)                                               Round             2         NPTH       7.00mm (0.28inch)
+T7      1.75mm (69mil)                                            Round             76        NPTH       1151.59mm (45.34inch)
+T8      3.6mm (142mil)                                            Round             6         NPTH       332.33mm (13.08inch)
+T9      4mm (157mil)                                              Round             6         NPTH       225.51mm (8.88inch)
+T10     4.1mm (161mil)                                            Round             38        NPTH       875.64mm (34.47inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              529
+
+Total Processing Time (hh:mm:ss) : 00:00:00

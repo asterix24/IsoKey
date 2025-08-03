@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\asterix\Documents\github\IsoKey\isokey_left\isokey_left.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=isokey-v5.1_left-rev-a-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=isokey-v5.1_left-rev-a-slotholes.txt|DrillLayers=gtl,gbl

@@ -1,0 +1,181 @@
+Altium Designer Pick and Place Locations
+C:\Users\asterix\Documents\github\IsoKey\Assembly\isokey-v5.1_right\pick-and-place-isokey-v5.1_right_R0.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       03/08/25
+Time:       00:25
+Revision:   75a75135963fba397611abbab5124de6ee3dab9e
+Variant:    No variations
+Units used: mm
+
+Designator Comment               Layer       Footprint                  Center-X(mm) Center-Y(mm) Rotation      Description                                     
+JP1        "LED ENABLE"          BottomLayer 0603_[1608]_JUMPER         18.6493      35.9797      9.5           "Jumper SMD"                                    
+U1         RP2040-Zero           TopLayer    RP2040-Zero                46.7500      31.9307      279.5         "module, mini based on RP4020 (RP2350-Zero)"    
+R7         NP                    BottomLayer 0402_[1005]                42.9973      36.4219      90            Resistor                                        
+R6         NP                    BottomLayer 0402_[1005]                40.5000      36.4219      90            Resistor                                        
+R5         22R                   BottomLayer 0402_[1005]                45.5025      36.4915      270           Resistor                                        
+R4         1k8                   TopLayer    0402_[1005]                22.2500      35.2500      279.5         Resistor                                        
+R3         1k8                   TopLayer    0402_[1005]                24.7500      35.7500      279.5         Resistor                                        
+R2         22R                   BottomLayer 0402_[1005]                48.0000      37.5000      270           Resistor                                        
+J2         "OLED Display 124x32" TopLayer    HEADER_1X4_2.54MM_THD      124.7500     21.7500      270           "Header, 4-Pin"                                 
+J1         TRRS                  TopLayer    CON_PHONE_TRRS_3.5MM_THD   52.9823      32.0738      279.5         "headphone socket TRRS (Hong Cheng HC-PJ-320A)" 
+D4         LED1                  TopLayer    0402_[1005]_K1-A2_LED      23.5000      35.5000      279.5         "Diode Led"                                     
+D3         LED0                  TopLayer    0402_[1005]_K1-A2_LED      26.0000      36.0000      279.5         "Diode Led"                                     
+C4         100nF                 BottomLayer 0402_[1005]                128.2500     20.7500      180           Capacitor                                       
+C3         10uF                  BottomLayer 0603_[1608]                128.4999     19.5000      180           Capacitor                                       
+C2         10uF                  BottomLayer 0603_[1608]                53.0000      38.2499      270           Capacitor                                       
+C1         100nF                 BottomLayer 0402_[1005]                51.5000      38.0000      270           Capacitor                                       
+K84_K62_R1 1k8                   BottomLayer 0402_[1005]                2.1929       21.5577      335.942977905 Resistor                                        
+K84_D1     B5819W                BottomLayer SOD-123_K1-A2              115.7500     -9.7500      90            "Diode Schottky  low Vf, If 1A ( LCSC C8598)"   
+K84_K62_D2 K                     TopLayer    0402_[1005]_K1-A2_LED      2.1929       21.5577      335.942977905 "Diode Led"                                     
+K84_S1     MecSwitch             TopLayer    TACTILE_SWITCH_GATERON_PCB 157.1650     -78.4600     0             "Tactile Switch Right Angle 6x6"                
+K82_D1     B5819W                BottomLayer SOD-123_K1-A2              118.0000     -9.7500      90            "Diode Schottky  low Vf, If 1A ( LCSC C8598)"   
+K82_S1     MecSwitch             TopLayer    TACTILE_SWITCH_GATERON_PCB 171.4464     -45.0100     0             "Tactile Switch Right Angle 6x6"                
+K82_K62_D2 K                     TopLayer    0402_[1005]_K1-A2_LED      5.4805       21.9875      20.0000152588 "Diode Led"                                     
+K82_K62_R1 1k8                   BottomLayer 0402_[1005]                5.4805       21.9875      20.0000152588 Resistor                                        
+K81_D1     B5819W                BottomLayer SOD-123_K1-A2              122.5000     -9.7500      90            "Diode Schottky  low Vf, If 1A ( LCSC C8598)"   
+K81_K62_R1 1k8                   BottomLayer 0402_[1005]                -2.0958      21.9784      304.817001343 Resistor                                        
+K81_K62_D2 K                     TopLayer    0402_[1005]_K1-A2_LED      -2.0957      21.9784      304.817001343 "Diode Led"                                     
+K81_S1     MecSwitch             TopLayer    TACTILE_SWITCH_GATERON_PCB 171.4464     -25.9600     0             "Tactile Switch Right Angle 6x6"                
+K74_S1     MecSwitch             TopLayer    TACTILE_SWITCH_GATERON_PCB 138.1150     -78.4600     0             "Tactile Switch Right Angle 6x6"                
+K74_K62_D2 K                     TopLayer    0402_[1005]_K1-A2_LED      0.8006       25.7800      280.000015259 "Diode Led"                                     
+K74_D1     B5819W                BottomLayer SOD-123_K1-A2              113.5000     -9.7500      90            "Diode Schottky  low Vf, If 1A ( LCSC C8598)"   
+K74_K62_R1 1k8                   BottomLayer 0402_[1005]                0.8006       25.7800      280.000015259 Resistor                                        
+K73_D1     B5819W                BottomLayer SOD-123_K1-A2              111.2500     -9.7500      90            "Diode Schottky  low Vf, If 1A ( LCSC C8598)"   
+K73_S1     MecSwitch             TopLayer    TACTILE_SWITCH_GATERON_PCB 138.1094     -59.4100     0             "Tactile Switch Right Angle 6x6"                
+K73_K62_R1 1k8                   BottomLayer 0402_[1005]                5.6576       32.5454      165.93687439  Resistor                                        
+K73_K62_D2 K                     TopLayer    0402_[1005]_K1-A2_LED      5.6576       32.5454      165.93687439  "Diode Led"                                     
+K72_K62_R1 1k8                   BottomLayer 0402_[1005]                6.3797       29.5120      144.4255867   Resistor                                        
+K72_K62_D2 K                     TopLayer    0402_[1005]_K1-A2_LED      6.3797       29.5120      144.4255867   "Diode Led"                                     
+K72_S1     MecSwitch             TopLayer    TACTILE_SWITCH_GATERON_PCB 140.5000     -25.9600     0             "Tactile Switch Right Angle 6x6"                
+K72_D1     B5819W                BottomLayer SOD-123_K1-A2              120.2500     -9.7500      90            "Diode Schottky  low Vf, If 1A ( LCSC C8598)"   
+K70_D1     B5819W                BottomLayer SOD-123_K1-A2              124.7500     -9.7500      90            "Diode Schottky  low Vf, If 1A ( LCSC C8598)"   
+K70_K62_D2 K                     TopLayer    0402_[1005]_K1-A2_LED      8.9808       29.2193      120.000015259 "Diode Led"                                     
+K70_S1     MecSwitch             TopLayer    TACTILE_SWITCH_GATERON_PCB 142.8810     2.5400       0             "Tactile Switch Right Angle 6x6"                
+K70_K62_R1 1k8                   BottomLayer 0402_[1005]                8.9808       29.2193      120.000015259 Resistor                                        
+K62_K62_R1 1k8                   BottomLayer 0402_[1005]                0.0582       21.3618      321.077865601 Resistor                                        
+K62_D1     B5819W                BottomLayer SOD-123_K1-A2              104.5000     -9.7500      90            "Diode Schottky  low Vf, If 1A ( LCSC C8598)"   
+K62_S1     MecSwitch             TopLayer    TACTILE_SWITCH_GATERON_PCB 114.3000     -35.5600     0             "Tactile Switch Right Angle 6x6"                
+K62_K62_D2 K                     TopLayer    0402_[1005]_K1-A2_LED      0.0582       21.3618      321.077865601 "Diode Led"                                     
+K61_D1     B5819W                BottomLayer SOD-123_K1-A2              106.7500     -9.7500      90            "Diode Schottky  low Vf, If 1A ( LCSC C8598)"   
+K61_K62_D2 K                     TopLayer    0402_[1005]_K1-A2_LED      -0.2274      24.8052      290           "Diode Led"                                     
+K61_K62_R1 1k8                   BottomLayer 0402_[1005]                -0.2274      24.8052      290           Resistor                                        
+K61_S1     MecSwitch             TopLayer    TACTILE_SWITCH_GATERON_PCB 114.3000     -16.5100     0             "Tactile Switch Right Angle 6x6"                
+K22_K62_R1 1k8                   BottomLayer 0402_[1005]                10.6185      22.4231      59.4277877808 Resistor                                        
+K23_K62_R1 1k8                   BottomLayer 0402_[1005]                11.7311      26.4639      90.4212045074 Resistor                                        
+K64_K62_R1 1k8                   BottomLayer 0402_[1005]                4.0012       24.1943      0             Resistor                                        
+K60_K62_R1 1k8                   BottomLayer 0402_[1005]                -0.9785      23.4693      300.000015259 Resistor                                        
+K53_K62_R1 1k8                   BottomLayer 0402_[1005]                10.5226      30.0491      119.121700287 Resistor                                        
+K52_K62_R1 1k8                   BottomLayer 0402_[1005]                -0.5490      28.3411      244.000015259 Resistor                                        
+K51_K62_R1 1k8                   BottomLayer 0402_[1005]                4.3485       28.3140      170           Resistor                                        
+K50_K62_R1 1k8                   BottomLayer 0402_[1005]                9.0365       22.5353      52.894077301  Resistor                                        
+K44_K62_R1 1k8                   BottomLayer 0402_[1005]                1.8453       23.2237      322.338378906 Resistor                                        
+K43_K62_R1 1k8                   BottomLayer 0402_[1005]                4.5656       23.1437      10.0000228882 Resistor                                        
+K42_K62_R1 1k8                   BottomLayer 0402_[1005]                2.0346       31.7475      199.999992371 Resistor                                        
+K41_K62_R1 1k8                   BottomLayer 0402_[1005]                2.0012       26.3443      270           Resistor                                        
+K40_K62_R1 1k8                   BottomLayer 0402_[1005]                1.1108       28.8391      230.702087402 Resistor                                        
+K33_K62_R1 1k8                   BottomLayer 0402_[1005]                -3.4500      26.3085      271.331359863 Resistor                                        
+K32_K62_R1 1k8                   BottomLayer 0402_[1005]                3.2198       30.7760      190           Resistor                                        
+K31_K62_R1 1k8                   BottomLayer 0402_[1005]                8.8059       24.7607      71.7576618195 Resistor                                        
+K30_K62_R1 1k8                   BottomLayer 0402_[1005]                6.1747       31.0537      154.120307922 Resistor                                        
+K24_K62_R1 1k8                   BottomLayer 0402_[1005]                7.2018       26.9087      100.000020981 Resistor                                        
+K21_K62_R1 1k8                   BottomLayer 0402_[1005]                6.0023       26.3181      86.5151433945 Resistor                                        
+K20_K62_R1 1k8                   BottomLayer 0402_[1005]                8.2298       27.8834      110.000013351 Resistor                                        
+K14_K62_R1 1k8                   BottomLayer 0402_[1005]                8.4029       31.5213      139.18542099  Resistor                                        
+K13_K62_R1 1k8                   BottomLayer 0402_[1005]                2.9917       20.0805      354.459197998 Resistor                                        
+K12_K62_R1 1k8                   BottomLayer 0402_[1005]                6.8762       21.3647      29.9999847412 Resistor                                        
+K11_K62_R1 1k8                   BottomLayer 0402_[1005]                -0.4778      30.8921      224           Resistor                                        
+K10_K62_R1 1k8                   BottomLayer 0402_[1005]                10.3382      25.4428      82.7979974747 Resistor                                        
+K03_K62_R1 1k8                   BottomLayer 0402_[1005]                0.8801       33.2067      203.7787323   Resistor                                        
+K02_K62_R1 1k8                   BottomLayer 0402_[1005]                7.1107       24.2858      56.4951076508 Resistor                                        
+K01_K62_R1 1k8                   BottomLayer 0402_[1005]                4.0012       29.7443      180           Resistor                                        
+K22_S1     MecSwitch             TopLayer    TACTILE_SWITCH_GATERON_PCB 38.1000      -35.5600     0             "Tactile Switch Right Angle 6x6"                
+K23_S1     MecSwitch             TopLayer    TACTILE_SWITCH_GATERON_PCB 38.1000      -54.6100     0             "Tactile Switch Right Angle 6x6"                
+K64_S1     MecSwitch             TopLayer    TACTILE_SWITCH_GATERON_PCB 119.0646     -78.4600     0             "Tactile Switch Right Angle 6x6"                
+K60_S1     MecSwitch             TopLayer    TACTILE_SWITCH_GATERON_PCB 114.3000     2.5400       0             "Tactile Switch Right Angle 6x6"                
+K53_S1     MecSwitch             TopLayer    TACTILE_SWITCH_GATERON_PCB 97.6314      -54.6100     0             "Tactile Switch Right Angle 6x6"                
+K52_S1     MecSwitch             TopLayer    TACTILE_SWITCH_GATERON_PCB 95.2500      -35.5600     0             "Tactile Switch Right Angle 6x6"                
+K51_S1     MecSwitch             TopLayer    TACTILE_SWITCH_GATERON_PCB 95.2500      -16.5100     0             "Tactile Switch Right Angle 6x6"                
+K50_S1     MecSwitch             TopLayer    TACTILE_SWITCH_GATERON_PCB 95.2500      2.5400       0             "Tactile Switch Right Angle 6x6"                
+K44_S1     MecSwitch             TopLayer    TACTILE_SWITCH_GATERON_PCB 69.0555      -75.5660     0             "Tactile Switch Right Angle 6x6"                
+K43_S1     MecSwitch             TopLayer    TACTILE_SWITCH_GATERON_PCB 76.2000      -54.6100     0             "Tactile Switch Right Angle 6x6"                
+K42_S1     MecSwitch             TopLayer    TACTILE_SWITCH_GATERON_PCB 76.2000      -35.5600     0             "Tactile Switch Right Angle 6x6"                
+K41_S1     MecSwitch             TopLayer    TACTILE_SWITCH_GATERON_PCB 76.2000      -16.5100     0             "Tactile Switch Right Angle 6x6"                
+K40_S1     MecSwitch             TopLayer    TACTILE_SWITCH_GATERON_PCB 76.2000      2.5400       0             "Tactile Switch Right Angle 6x6"                
+K33_S1     MecSwitch             TopLayer    TACTILE_SWITCH_GATERON_PCB 57.1500      -54.6100     0             "Tactile Switch Right Angle 6x6"                
+K32_S1     MecSwitch             TopLayer    TACTILE_SWITCH_GATERON_PCB 57.1500      -35.5600     0             "Tactile Switch Right Angle 6x6"                
+K31_S1     MecSwitch             TopLayer    TACTILE_SWITCH_GATERON_PCB 57.1500      -16.5100     0             "Tactile Switch Right Angle 6x6"                
+K30_S1     MecSwitch             TopLayer    TACTILE_SWITCH_GATERON_PCB 57.1500      2.5400       0             "Tactile Switch Right Angle 6x6"                
+K24_S1     MecSwitch             TopLayer    TACTILE_SWITCH_GATERON_PCB 45.2435      -75.5660     0             "Tactile Switch Right Angle 6x6"                
+K21_S1     MecSwitch             TopLayer    TACTILE_SWITCH_GATERON_PCB 38.1000      -16.5100     0             "Tactile Switch Right Angle 6x6"                
+K20_S1     MecSwitch             TopLayer    TACTILE_SWITCH_GATERON_PCB 38.1000      2.5400       0             "Tactile Switch Right Angle 6x6"                
+K14_S1     MecSwitch             TopLayer    TACTILE_SWITCH_GATERON_PCB 14.2875      -75.5660     0             "Tactile Switch Right Angle 6x6"                
+K13_S1     MecSwitch             TopLayer    TACTILE_SWITCH_GATERON_PCB 19.0500      -54.6100     0             "Tactile Switch Right Angle 6x6"                
+K12_S1     MecSwitch             TopLayer    TACTILE_SWITCH_GATERON_PCB 19.0500      -35.5600     0             "Tactile Switch Right Angle 6x6"                
+K11_S1     MecSwitch             TopLayer    TACTILE_SWITCH_GATERON_PCB 19.0500      -16.5100     0             "Tactile Switch Right Angle 6x6"                
+K10_S1     MecSwitch             TopLayer    TACTILE_SWITCH_GATERON_PCB 19.0500      2.5400       0             "Tactile Switch Right Angle 6x6"                
+K03_S1     MecSwitch             TopLayer    TACTILE_SWITCH_GATERON_PCB 0.0000       -54.6100     0             "Tactile Switch Right Angle 6x6"                
+K02_S1     MecSwitch             TopLayer    TACTILE_SWITCH_GATERON_PCB 0.0000       -35.5600     0             "Tactile Switch Right Angle 6x6"                
+K01_S1     MecSwitch             TopLayer    TACTILE_SWITCH_GATERON_PCB 0.0000       -16.5100     0             "Tactile Switch Right Angle 6x6"                
+K22_K62_D2 K                     TopLayer    0402_[1005]_K1-A2_LED      10.6185      22.4231      59.4277877808 "Diode Led"                                     
+K23_K62_D2 K                     TopLayer    0402_[1005]_K1-A2_LED      11.7311      26.4639      90.4212045074 "Diode Led"                                     
+K64_K62_D2 K                     TopLayer    0402_[1005]_K1-A2_LED      4.0012       24.1944      0             "Diode Led"                                     
+K60_K62_D2 K                     TopLayer    0402_[1005]_K1-A2_LED      -0.9785      23.4693      300.000015259 "Diode Led"                                     
+K53_K62_D2 K                     TopLayer    0402_[1005]_K1-A2_LED      10.5226      30.0491      119.121700287 "Diode Led"                                     
+K52_K62_D2 K                     TopLayer    0402_[1005]_K1-A2_LED      -0.5530      28.3328      244.000015259 "Diode Led"                                     
+K51_K62_D2 K                     TopLayer    0402_[1005]_K1-A2_LED      4.3485       28.3139      170           "Diode Led"                                     
+K50_K62_D2 K                     TopLayer    0402_[1005]_K1-A2_LED      9.0365       22.5354      52.894077301  "Diode Led"                                     
+K44_K62_D2 K                     TopLayer    0402_[1005]_K1-A2_LED      1.8408       23.2272      322.338378906 "Diode Led"                                     
+K43_K62_D2 K                     TopLayer    0402_[1005]_K1-A2_LED      4.5656       23.1437      10.0000228882 "Diode Led"                                     
+K42_K62_D2 K                     TopLayer    0402_[1005]_K1-A2_LED      2.0346       31.7476      199.999992371 "Diode Led"                                     
+K41_K62_D2 K                     TopLayer    0402_[1005]_K1-A2_LED      2.0012       26.3443      270           "Diode Led"                                     
+K40_K62_D2 K                     TopLayer    0402_[1005]_K1-A2_LED      1.1108       28.8391      230.702087402 "Diode Led"                                     
+K33_K62_D2 K                     TopLayer    0402_[1005]_K1-A2_LED      -3.4500      26.3085      271.331359863 "Diode Led"                                     
+K32_K62_D2 K                     TopLayer    0402_[1005]_K1-A2_LED      3.2197       30.7760      190           "Diode Led"                                     
+K31_K62_D2 K                     TopLayer    0402_[1005]_K1-A2_LED      8.8059       24.7607      71.7576618195 "Diode Led"                                     
+K30_K62_D2 K                     TopLayer    0402_[1005]_K1-A2_LED      6.1747       31.0537      154.120307922 "Diode Led"                                     
+K24_K62_D2 K                     TopLayer    0402_[1005]_K1-A2_LED      7.2018       26.9087      100.000020981 "Diode Led"                                     
+K21_K62_D2 K                     TopLayer    0402_[1005]_K1-A2_LED      6.0023       26.3181      86.5151433945 "Diode Led"                                     
+K20_K62_D2 K                     TopLayer    0402_[1005]_K1-A2_LED      8.2298       27.8834      110.000013351 "Diode Led"                                     
+K14_K62_D2 K                     TopLayer    0402_[1005]_K1-A2_LED      8.4029       31.5213      139.18542099  "Diode Led"                                     
+K13_K62_D2 K                     TopLayer    0402_[1005]_K1-A2_LED      2.9917       20.0804      354.459197998 "Diode Led"                                     
+K12_K62_D2 K                     TopLayer    0402_[1005]_K1-A2_LED      6.8762       21.3647      29.9999847412 "Diode Led"                                     
+K11_K62_D2 K                     TopLayer    0402_[1005]_K1-A2_LED      -0.4778      30.8921      224           "Diode Led"                                     
+K10_K62_D2 K                     TopLayer    0402_[1005]_K1-A2_LED      10.3381      25.4428      82.7979974747 "Diode Led"                                     
+K03_K62_D2 K                     TopLayer    0402_[1005]_K1-A2_LED      0.8702       33.2023      203.7787323   "Diode Led"                                     
+K02_K62_D2 K                     TopLayer    0402_[1005]_K1-A2_LED      7.1150       24.2871      56.5484256744 "Diode Led"                                     
+K01_K62_D2 K                     TopLayer    0402_[1005]_K1-A2_LED      4.0012       29.7443      180           "Diode Led"                                     
+K22_D1     B5819W                BottomLayer SOD-123_K1-A2              39.7500      -9.7500      90            "Diode Schottky  low Vf, If 1A ( LCSC C8598)"   
+K23_D1     B5819W                BottomLayer SOD-123_K1-A2              37.5000      -9.7500      90            "Diode Schottky  low Vf, If 1A ( LCSC C8598)"   
+K64_D1     B5819W                BottomLayer SOD-123_K1-A2              102.2500     -9.7500      90            "Diode Schottky  low Vf, If 1A ( LCSC C8598)"   
+K60_D1     B5819W                BottomLayer SOD-123_K1-A2              109.0000     -9.7500      90            "Diode Schottky  low Vf, If 1A ( LCSC C8598)"   
+K53_D1     B5819W                BottomLayer SOD-123_K1-A2              93.2500      -9.7000      90            "Diode Schottky  low Vf, If 1A ( LCSC C8598)"   
+K52_D1     B5819W                BottomLayer SOD-123_K1-A2              95.5000      -9.7500      90            "Diode Schottky  low Vf, If 1A ( LCSC C8598)"   
+K51_D1     B5819W                BottomLayer SOD-123_K1-A2              97.7500      -9.7500      90            "Diode Schottky  low Vf, If 1A ( LCSC C8598)"   
+K50_D1     B5819W                BottomLayer SOD-123_K1-A2              100.0000     -9.7500      90            "Diode Schottky  low Vf, If 1A ( LCSC C8598)"   
+K44_D1     B5819W                BottomLayer SOD-123_K1-A2              68.2500      -9.7500      90            "Diode Schottky  low Vf, If 1A ( LCSC C8598)"   
+K43_D1     B5819W                BottomLayer SOD-123_K1-A2              70.5000      -9.7500      90            "Diode Schottky  low Vf, If 1A ( LCSC C8598)"   
+K42_D1     B5819W                BottomLayer SOD-123_K1-A2              72.7500      -9.7500      90            "Diode Schottky  low Vf, If 1A ( LCSC C8598)"   
+K41_D1     B5819W                BottomLayer SOD-123_K1-A2              75.0000      -9.7500      90            "Diode Schottky  low Vf, If 1A ( LCSC C8598)"   
+K40_D1     B5819W                BottomLayer SOD-123_K1-A2              77.2500      -9.7500      90            "Diode Schottky  low Vf, If 1A ( LCSC C8598)"   
+K33_D1     B5819W                BottomLayer SOD-123_K1-A2              50.5000      -9.7500      90            "Diode Schottky  low Vf, If 1A ( LCSC C8598)"   
+K32_D1     B5819W                BottomLayer SOD-123_K1-A2              52.7500      -9.7500      90            "Diode Schottky  low Vf, If 1A ( LCSC C8598)"   
+K31_D1     B5819W                BottomLayer SOD-123_K1-A2              55.0000      -9.7500      90            "Diode Schottky  low Vf, If 1A ( LCSC C8598)"   
+K30_D1     B5819W                BottomLayer SOD-123_K1-A2              57.2500      -9.7500      90            "Diode Schottky  low Vf, If 1A ( LCSC C8598)"   
+K24_D1     B5819W                BottomLayer SOD-123_K1-A2              35.2500      -9.7500      90            "Diode Schottky  low Vf, If 1A ( LCSC C8598)"   
+K21_D1     B5819W                BottomLayer SOD-123_K1-A2              42.0000      -9.7500      90            "Diode Schottky  low Vf, If 1A ( LCSC C8598)"   
+K20_D1     B5819W                BottomLayer SOD-123_K1-A2              44.2500      -9.7500      90            "Diode Schottky  low Vf, If 1A ( LCSC C8598)"   
+K14_D1     B5819W                BottomLayer SOD-123_K1-A2              11.5000      -9.7500      90            "Diode Schottky  low Vf, If 1A ( LCSC C8598)"   
+K13_D1     B5819W                BottomLayer SOD-123_K1-A2              13.7500      -9.7500      90            "Diode Schottky  low Vf, If 1A ( LCSC C8598)"   
+K12_D1     B5819W                BottomLayer SOD-123_K1-A2              16.0000      -9.7500      90            "Diode Schottky  low Vf, If 1A ( LCSC C8598)"   
+K11_D1     B5819W                BottomLayer SOD-123_K1-A2              18.2500      -9.7500      90            "Diode Schottky  low Vf, If 1A ( LCSC C8598)"   
+K10_D1     B5819W                BottomLayer SOD-123_K1-A2              20.5000      -9.7500      90            "Diode Schottky  low Vf, If 1A ( LCSC C8598)"   
+K03_D1     B5819W                BottomLayer SOD-123_K1-A2              -6.7500      -9.7500      90            "Diode Schottky  low Vf, If 1A ( LCSC C8598)"   
+K02_D1     B5819W                BottomLayer SOD-123_K1-A2              -4.5000      -9.7500      90            "Diode Schottky  low Vf, If 1A ( LCSC C8598)"   
+K01_D1     B5819W                BottomLayer SOD-123_K1-A2              -2.2500      -9.7500      90            "Diode Schottky  low Vf, If 1A ( LCSC C8598)"   
+K00_K62_R1 1k8                   BottomLayer 0402_[1005]                -2.1124      27.9863      254.966278076 Resistor                                        
+K00_S1     MecSwitch             TopLayer    TACTILE_SWITCH_GATERON_PCB 0.0000       2.5400       0             "Tactile Switch Right Angle 6x6"                
+K00_K62_D2 K                     TopLayer    0402_[1005]_K1-A2_LED      -2.1124      27.9863      254.966278076 "Diode Led"                                     
+K00_D1     B5819W                BottomLayer SOD-123_K1-A2              0.0000       -9.7500      90            "Diode Schottky  low Vf, If 1A ( LCSC C8598)"   

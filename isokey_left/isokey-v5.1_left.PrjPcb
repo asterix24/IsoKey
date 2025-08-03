@@ -187,79 +187,231 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=..\Gerber\pcb-isokey_left-Rev-A\isokey_left-Rev-A-RoundHoles.TXT
+DocumentPath=..\Gerber\pcb-isokey-v5.1_left-Rev-A\isokey-v5.1_left-Rev-A-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=..\Gerber\pcb-isokey_left-Rev-A\isokey_left-Rev-A-SlotHoles.TXT
+DocumentPath=..\Gerber\pcb-isokey-v5.1_left-Rev-A\isokey-v5.1_left-Rev-A-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=..\Gerber\pcb-isokey_left-Rev-A\isokey_left-Rev-A.DRR
+DocumentPath=..\Gerber\pcb-isokey-v5.1_left-Rev-A\isokey-v5.1_left-Rev-A.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=..\Gerber\pcb-isokey_left-Rev-A\isokey_left-Rev-A.EXTREP
+DocumentPath=..\Gerber\pcb-isokey-v5.1_left-Rev-A\isokey-v5.1_left-Rev-A.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=..\Gerber\pcb-isokey_left-Rev-A\isokey_left-Rev-A.GBL
+DocumentPath=..\Gerber\pcb-isokey-v5.1_left-Rev-A\isokey-v5.1_left-Rev-A.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=..\Gerber\pcb-isokey_left-Rev-A\isokey_left-Rev-A.GBO
+DocumentPath=..\Gerber\pcb-isokey-v5.1_left-Rev-A\isokey-v5.1_left-Rev-A.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=..\Gerber\pcb-isokey_left-Rev-A\isokey_left-Rev-A.GBP
+DocumentPath=..\Gerber\pcb-isokey-v5.1_left-Rev-A\isokey-v5.1_left-Rev-A.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=..\Gerber\pcb-isokey_left-Rev-A\isokey_left-Rev-A.GBS
+DocumentPath=..\Gerber\pcb-isokey-v5.1_left-Rev-A\isokey-v5.1_left-Rev-A.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=..\Gerber\pcb-isokey_left-Rev-A\isokey_left-Rev-A.GD1
+DocumentPath=..\Gerber\pcb-isokey-v5.1_left-Rev-A\isokey-v5.1_left-Rev-A.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=..\Gerber\pcb-isokey_left-Rev-A\isokey_left-Rev-A.GG1
+DocumentPath=..\Gerber\pcb-isokey-v5.1_left-Rev-A\isokey-v5.1_left-Rev-A.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=..\Gerber\pcb-isokey_left-Rev-A\isokey_left-Rev-A.GM1
+DocumentPath=..\Gerber\pcb-isokey-v5.1_left-Rev-A\isokey-v5.1_left-Rev-A.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=..\Gerber\pcb-isokey_left-Rev-A\isokey_left-Rev-A.GM7
+DocumentPath=..\Gerber\pcb-isokey-v5.1_left-Rev-A\isokey-v5.1_left-Rev-A.GM7
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=..\Gerber\pcb-isokey_left-Rev-A\isokey_left-Rev-A.GTL
+DocumentPath=..\Gerber\pcb-isokey-v5.1_left-Rev-A\isokey-v5.1_left-Rev-A.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=..\Gerber\pcb-isokey_left-Rev-A\isokey_left-Rev-A.GTO
+DocumentPath=..\Gerber\pcb-isokey-v5.1_left-Rev-A\isokey-v5.1_left-Rev-A.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=..\Gerber\pcb-isokey_left-Rev-A\isokey_left-Rev-A.GTP
+DocumentPath=..\Gerber\pcb-isokey-v5.1_left-Rev-A\isokey-v5.1_left-Rev-A.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=..\Gerber\pcb-isokey_left-Rev-A\isokey_left-Rev-A.GTS
+DocumentPath=..\Gerber\pcb-isokey-v5.1_left-Rev-A\isokey-v5.1_left-Rev-A.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=..\Gerber\pcb-isokey_left-Rev-A\isokey_left-Rev-A.LDP
+DocumentPath=..\Gerber\pcb-isokey-v5.1_left-Rev-A\isokey-v5.1_left-Rev-A.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=..\Gerber\pcb-isokey_left-Rev-A\isokey_left-Rev-A.REP
+DocumentPath=..\Gerber\pcb-isokey-v5.1_left-Rev-A\isokey-v5.1_left-Rev-A.REP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
+DocumentPath=..\Gerber\pcb-isokey-v5.1_left-Rev-A\isokey-v5.1_left-Rev-A.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=..\Gerber\pcb-isokey_left-Rev-A\isokey_left-Rev-A-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=..\Gerber\pcb-isokey_left-Rev-A\isokey_left-Rev-A-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=..\Gerber\pcb-isokey_left-Rev-A\isokey_left-Rev-A.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=..\Gerber\pcb-isokey_left-Rev-A\isokey_left-Rev-A.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=..\Gerber\pcb-isokey_left-Rev-A\isokey_left-Rev-A.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=..\Gerber\pcb-isokey_left-Rev-A\isokey_left-Rev-A.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=..\Gerber\pcb-isokey_left-Rev-A\isokey_left-Rev-A.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=..\Gerber\pcb-isokey_left-Rev-A\isokey_left-Rev-A.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=..\Gerber\pcb-isokey_left-Rev-A\isokey_left-Rev-A.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=..\Gerber\pcb-isokey_left-Rev-A\isokey_left-Rev-A.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=..\Gerber\pcb-isokey_left-Rev-A\isokey_left-Rev-A.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=..\Gerber\pcb-isokey_left-Rev-A\isokey_left-Rev-A.GM7
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=..\Gerber\pcb-isokey_left-Rev-A\isokey_left-Rev-A.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=..\Gerber\pcb-isokey_left-Rev-A\isokey_left-Rev-A.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=..\Gerber\pcb-isokey_left-Rev-A\isokey_left-Rev-A.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=..\Gerber\pcb-isokey_left-Rev-A\isokey_left-Rev-A.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=..\Gerber\pcb-isokey_left-Rev-A\isokey_left-Rev-A.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=..\Gerber\pcb-isokey_left-Rev-A\isokey_left-Rev-A.REP
+DItemRevisionGUID=
+
+[GeneratedDocument38]
 DocumentPath=..\Gerber\pcb-isokey_left-Rev-A\isokey_left-Rev-A.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=..\Gerber\='pcb-'+DataSource+'-Rev-'+prj_pcb\isokey_left-Rev-prj_pcb-RoundHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=..\Gerber\='pcb-'+DataSource+'-Rev-'+prj_pcb\isokey_left-Rev-prj_pcb-SlotHoles.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=..\Gerber\='pcb-'+DataSource+'-Rev-'+prj_pcb\isokey_left-Rev-prj_pcb.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=..\Gerber\='pcb-'+DataSource+'-Rev-'+prj_pcb\isokey_left-Rev-prj_pcb.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=..\Gerber\='pcb-'+DataSource+'-Rev-'+prj_pcb\isokey_left-Rev-prj_pcb.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=..\Gerber\='pcb-'+DataSource+'-Rev-'+prj_pcb\isokey_left-Rev-prj_pcb.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=..\Gerber\='pcb-'+DataSource+'-Rev-'+prj_pcb\isokey_left-Rev-prj_pcb.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=..\Gerber\='pcb-'+DataSource+'-Rev-'+prj_pcb\isokey_left-Rev-prj_pcb.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=..\Gerber\='pcb-'+DataSource+'-Rev-'+prj_pcb\isokey_left-Rev-prj_pcb.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=..\Gerber\='pcb-'+DataSource+'-Rev-'+prj_pcb\isokey_left-Rev-prj_pcb.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=..\Gerber\='pcb-'+DataSource+'-Rev-'+prj_pcb\isokey_left-Rev-prj_pcb.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=..\Gerber\='pcb-'+DataSource+'-Rev-'+prj_pcb\isokey_left-Rev-prj_pcb.GM7
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=..\Gerber\='pcb-'+DataSource+'-Rev-'+prj_pcb\isokey_left-Rev-prj_pcb.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=..\Gerber\='pcb-'+DataSource+'-Rev-'+prj_pcb\isokey_left-Rev-prj_pcb.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=..\Gerber\='pcb-'+DataSource+'-Rev-'+prj_pcb\isokey_left-Rev-prj_pcb.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=..\Gerber\='pcb-'+DataSource+'-Rev-'+prj_pcb\isokey_left-Rev-prj_pcb.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=..\Gerber\='pcb-'+DataSource+'-Rev-'+prj_pcb\isokey_left-Rev-prj_pcb.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=..\Gerber\='pcb-'+DataSource+'-Rev-'+prj_pcb\isokey_left-Rev-prj_pcb.REP
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=..\Gerber\='pcb-'+DataSource+'-Rev-'+prj_pcb\isokey_left-Rev-prj_pcb.RUL
 DItemRevisionGUID=
 
 [Parameter1]
@@ -272,7 +424,7 @@ Value=A
 
 [Parameter3]
 Name=prj_part_number
-Value=<PRJ PN>
+Value=
 
 [Parameter4]
 Name=prj_panel_name
@@ -280,7 +432,7 @@ Value=develer_prj_panel
 
 [Parameter5]
 Name=prj_name_long
-Value=Progetto Develer Template
+Value=Isokey
 
 [Parameter6]
 Name=prj_name
@@ -300,11 +452,11 @@ Value=--/--/----
 
 [Parameter10]
 Name=pcb_title2
-Value=<TITLE 2>
+Value=Split
 
 [Parameter11]
 Name=pcb_title1
-Value=<TITLE 1>
+Value=v5.1
 
 [Parameter12]
 Name=pcb_stackup
@@ -328,7 +480,7 @@ Value=<PCB PN>
 
 [Parameter17]
 Name=pcb_organization
-Value=Develer srl
+Value=Daniele Basile <asterix24@gmail.com>
 
 [Parameter18]
 Name=pcb_material

@@ -1,8 +1,6 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=isokey_left\isokey_left.PrjPcb
+ProjectPath=isokey_left\isokey-v5.1_left.PrjPcb
 [Project2]
-ProjectPath=isokey_right\isokey_right.PrjPcb
-[Project3]
-ProjectPath=core_module\core_module.PrjPcb
+ProjectPath=isokey_right\isokey-v5.1_right.PrjPcb

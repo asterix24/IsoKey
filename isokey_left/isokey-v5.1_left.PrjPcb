@@ -415,160 +415,160 @@ DocumentPath=..\Gerber\='pcb-'+DataSource+'-Rev-'+prj_pcb\isokey_left-Rev-prj_pc
 DItemRevisionGUID=
 
 [Parameter1]
-Name=prj_status
-Value=Prototype
-
-[Parameter2]
-Name=prj_pcb
-Value=A
-
-[Parameter3]
-Name=prj_part_number
+Name=CAGE_CODE
 Value=
 
+[Parameter2]
+Name=doc_no_assy_dwg
+Value=assembly-isokey_left_R0.pdf
+
+[Parameter3]
+Name=doc_no_bom
+Value=bom-isokey_left_R0.xlsx
+
 [Parameter4]
-Name=prj_panel_name
-Value=develer_prj_panel
+Name=doc_no_fab_dwg
+Value=-
 
 [Parameter5]
-Name=prj_name_long
-Value=Isokey
+Name=doc_no_sch_dwg
+Value=schematics-isokey_left_R0.pdf
 
 [Parameter6]
-Name=prj_name
-Value=IsoKey Split
+Name=pcb_2_dec_tol
+Value=+/-.01
 
 [Parameter7]
-Name=prj_license
-Value=GPLv2
+Name=pcb_3_dec_tol
+Value=+/-.010
 
 [Parameter8]
-Name=prj_hw_ver
-Value=0
+Name=pcb_address1
+Value=
 
 [Parameter9]
-Name=prj_date
-Value=--/--/----
+Name=pcb_address2
+Value=
 
 [Parameter10]
-Name=pcb_title2
-Value=Split
+Name=pcb_address3
+Value=Firenze
 
 [Parameter11]
-Name=pcb_title1
-Value=v5.1
+Name=pcb_address4
+Value=ITALIA
 
 [Parameter12]
-Name=pcb_stackup
-Value=Default
+Name=pcb_ang_tol
+Value=+/-1/2
 
 [Parameter13]
-Name=pcb_solder_color
-Value=PURPLE
+Name=pcb_checker
+Value=- -----
 
 [Parameter14]
-Name=pcb_silkscreen_color
-Value=WHITE
+Name=pcb_checker_app_date
+Value=--/--/----
 
 [Parameter15]
-Name=pcb_scale
-Value=1:1
+Name=pcb_designer
+Value=- -----
 
 [Parameter16]
-Name=pcb_part_number
-Value=<PCB PN>
+Name=pcb_designer_app_date
+Value=--/--/----
 
 [Parameter17]
-Name=pcb_organization
-Value=Daniele Basile <asterix24@gmail.com>
+Name=pcb_dwg_no
+Value=<PCB DWG NO>
 
 [Parameter18]
-Name=pcb_material
-Value=FR4-Standard Tg 130-140C
+Name=pcb_engineer
+Value=- -----
 
 [Parameter19]
-Name=pcb_layer_count
-Value=2
+Name=pcb_engineer_app_date
+Value=--/--/----
 
 [Parameter20]
 Name=pcb_finish
 Value=HASL
 
 [Parameter21]
-Name=pcb_engineer_app_date
-Value=--/--/----
+Name=pcb_layer_count
+Value=2
 
 [Parameter22]
-Name=pcb_engineer
-Value=- -----
+Name=pcb_material
+Value=FR4-Standard Tg 130-140C
 
 [Parameter23]
-Name=pcb_dwg_no
-Value=<PCB DWG NO>
+Name=pcb_organization
+Value=Daniele Basile <asterix24@gmail.com>
 
 [Parameter24]
-Name=pcb_designer_app_date
-Value=--/--/----
+Name=pcb_part_number
+Value=<PCB PN>
 
 [Parameter25]
-Name=pcb_designer
-Value=- -----
+Name=pcb_scale
+Value=1:1
 
 [Parameter26]
-Name=pcb_checker_app_date
-Value=--/--/----
+Name=pcb_silkscreen_color
+Value=WHITE
 
 [Parameter27]
-Name=pcb_checker
-Value=- -----
+Name=pcb_solder_color
+Value=PURPLE
 
 [Parameter28]
-Name=pcb_ang_tol
-Value=+/-1/2
+Name=pcb_stackup
+Value=Default
 
 [Parameter29]
-Name=pcb_address4
-Value=ITALIA
+Name=pcb_title1
+Value=v5.1
 
 [Parameter30]
-Name=pcb_address3
-Value=Firenze
+Name=pcb_title2
+Value=Split
 
 [Parameter31]
-Name=pcb_address2
-Value=
+Name=prj_date
+Value=--/--/----
 
 [Parameter32]
-Name=pcb_address1
-Value=
+Name=prj_hw_ver
+Value=0
 
 [Parameter33]
-Name=pcb_3_dec_tol
-Value=+/-.010
+Name=prj_license
+Value=GPLv2
 
 [Parameter34]
-Name=pcb_2_dec_tol
-Value=+/-.01
+Name=prj_name
+Value=IsoKey Split
 
 [Parameter35]
-Name=doc_no_sch_dwg
-Value=schematics-isokey_left_R0.pdf
+Name=prj_name_long
+Value=Isokey
 
 [Parameter36]
-Name=doc_no_fab_dwg
-Value=-
+Name=prj_panel_name
+Value=develer_prj_panel
 
 [Parameter37]
-Name=doc_no_bom
-Value=bom-isokey_left_R0.xlsx
+Name=prj_part_number
+Value=
 
 [Parameter38]
-Name=doc_no_assy_dwg
-Value=assembly-isokey_left_R0.pdf
+Name=prj_pcb
+Value=A
 
 [Parameter39]
-Name=CAGE_CODE
-Value=
+Name=prj_status
+Value=Prototype
 
 [Configuration1]
 Name=Sources
